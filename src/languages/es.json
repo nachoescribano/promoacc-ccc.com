@@ -1,0 +1,129 @@
+{
+  "lang": "es",
+  "description": "",
+  "keywords": "",
+  "title": "Accesorios para cable y cadena",
+  "home": "Inicio",
+  "features": "Características",
+  "range": "Gama",
+  "contact": "Contacto",
+  "back-to-top": "Ir al inicio",
+  "show-aside": "mostrar accesos rápidos",
+  "main-section": {
+    "title": "Accesorios para cable y cadena",
+    "image-alt": "",
+    "p": "La gama está compuesta por sujetacables, mosquetones, tensores, cáncamos, grilletes y guardacabos diseñados para la sujeción, fijación, protección de cable y montaje efectivo en exteriores. Toda la gama está disponible tanto en recubrimiento zincado como en acero inoxidable."
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com",
+    "menu": "menu"
+  },
+  "features-section": {
+    "title": "¿Para qué sirven los accesorios para cables y cadenas?",
+    "image": "assets/images/",
+    "image-alt": "",
+    "p1": "Los accesorios para cable y cadena de INDEX (fabricados en acero o en acero inoxidable) están diseñados para la sujeción de grandes cargas con garantías y soportan condiciones meteorológicas adversas, por lo que son perfectos para uso en exteriores.",
+    "p2": "Se emplean, principalmente, para la sujeción, fijación y protección de cables de acero, cables vistos, cuerdas y cadenas. Dentro de esta categoría, encontrarás una amplia selección de accesorios con diferentes funciones como sujetacables, para las conexiones entre cables; cáncamos, perfectos para la elevación de objetos mediante tensión; grilletes, cuya función es la de sujetar cadenas e inmovilizar una carga o guardacabos, ideales para protegen los cables con eficacia."
+  },
+
+  "range-section": {
+    "title": "Gama",
+    "more-info": "Más información",
+    "typical-applications": "Aplicaciones habituales",
+    "filters": [
+      {
+        "title": "inox",
+        "image": "assets/images/"
+      },
+      {
+        "title": "zinc",
+        "image": "assets/images/"
+      },
+      {
+        "title": "reset",
+        "image": "assets/images/"
+      }
+    ],
+    "range-cards": [
+      {
+        "title": "CÁNCAMOS",
+        "description": "<p>Indicados para aplicaciones industriales y de construcción, para crear puntos de anclajes seguros en estructuras, maquinaria, equipos o cualquier objeto que requiera levantamiento o sujeción mediante una cuerda, un cable o una cadena. La rosca interna de estos cáncamos permite uniones rápidas y seguras.</p><p>INDEX A PERFECT FIXING dispone de una <strong>gran variedad de diámetros y medidas</strong> de cáncamos.</p><p>Están fabricados en acero al carbono con recubrimiento zincado o en acero inoxidable A4, materiales que proporcionan una larga vida útil y gran resistencia a la corrosión y el óxido. La calidad de sus materiales y su cuidado diseño hacen que estos cáncamos proporcionen una <strong>sujeción fiable y segura.</strong></p><p>Antes de usarse, la anilla ha de ser revisada para su correcto asentamiento, además es importante seguir estas indicaciones:</p><ul><li>No se debe continuar con el uso de anillas deformadas ni reutilizarlas, en caso de ser posible estas deberían de ser reemplazadas.</li><li>En caso de instalar el cáncamo en un agujero pasante, una tuerca debe ser completamente roscada y apretada por el otro lado.</li><li>Su uso no es válido como equipo de protección individual (EPIS).</li></ul>",
+        "image": "assets/images/KFR-SC.jpg",
+        "image2x": "assets/images/KFR-SC@2x.jpg",
+        "image-alt": "CÁNCAMOS",
+        "url": "https://www.indexfix.com/",
+        "secondary-cards": [
+          {
+            "title": "EV-M",
+            "description": "Cáncamo macho D-580. Zincado",
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": "EV-M",
+            "url": ""
+          },
+          {
+            "title": "EV-M A4",
+            "description": "Cáncamo macho D-580. Inoxidable A4",
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": "EV-M A4",
+            "url": "https://www.indexfix.com/"
+          },
+          {
+            "title": "EV-H",
+            "description": "Cáncamo hembra D-582. Zincado",
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": "EV-H",
+            "url": "https://www.indexfix.com/"
+          },
+          {
+            "title": "EV-H A4",
+            "description": "Cáncamo hembra D-582. Inoxidable A4",
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": "EV-H A4",
+            "url": "https://www.indexfix.com/"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": "https://www.indexfix.com/"
+          },
+          {
+            "image": "assets/images/",
+            "image2x": "assets/images/",
+            "image-alt": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  "contact-section": {
+    "title": "Solicita más información",
+    "error": "Error",
+    "close": "Cerrar",
+    "name": "Nombre",
+    "surnames": "Apellidos",
+    "company": "Empresa",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "phone-legend": "Formato acceptado 613445599 o +34613445599",
+    "message": "Mensaje / Consulta",
+    "personal-data": "Acepto el uso de mis datos personales por el personal técnico de Técnicas Expansivas SL (CIF B-26220491) para que me contacte exclusivamente para mi formación y asesoramiento técnico de sus productos.",
+    "legal-data": "He leído y acepto el <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Aviso Legal</a> y la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Política de Privacidad</a>.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informa que los datos de carácter personal facilitados de forma voluntaria, cuya finalidad, cesiones previstas y demás circunstancias, se informa en el momento de la recogida de los datos de carácter personal, si bien, según el caso concreto, su finalidad, puede ser alguna de las siguientes, la atención a su solicitud, queja o duda planteada, mantenimiento de la relación establecida, la gestión integral y comercial de clientes, contabilidad y facturación o envío de comunicaciones, incluso por medios electrónicos, de noticias y actividades relacionadas con TÉCNICAS EXPANSIVAS S.L.",
+    "description-2": "Los datos incorporados a nuestros ficheros son absolutamente confidenciales y serán tratados con la máxima confidencialidad y cumpliendo todos los requisitos que obliga el Reglamento General de Protección de Datos (RGPD) de 27 de abril de 2016. Los datos quedarán registrados en nuestros ficheros por el tiempo necesario que dure la motivación para la que fueron recabados. El plazo durante el cual se conservarán los datos personales será aquel que marque la legislación vigente y siempre durante el tiempo que medie en la prestación del servicio para el que fueron comunicados.",
+    "description-3": "Se recomienda no enviar datos personales de nivel alto, según la legislación de protección de datos, como pueden ser los relativos a salud, pues los mismos no viajan cifrados o encriptados. De modo que si VD, los envía será de su exclusiva responsabilidad.",
+    "description-4": "El usuario podrá ejercer en cualquier momento sus derechos para acceder, rectificar, oponerse, cancelarlos, limitar su tratamiento o solicitar su portabilidad con arreglo a lo previsto en el Reglamento General de Protección de Datos (RGPD) de 27 de abril de 2016 enviando una carta a su responsable de tratamiento: Valentín Gómez, Gerente, junto con la fotocopia de su DNI, a TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) o a través de la dirección de correo electrónico info@indexfix.com.",
+    "button-send": "Enviar"
+  },
+  "menu-aside": {
+    "button-features": "Características",
+    "button-range": "Ver gama",
+    "button-info": "Información"
+  }
+}

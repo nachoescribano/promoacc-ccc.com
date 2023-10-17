@@ -1,0 +1,46 @@
+<a id="range-section"></a>
+{{#with range-section}}
+  <section class="section">
+    <div class="container">
+      <header class="section__header">
+        <h2 class="section__title">
+          {{title}}
+        </h2>
+      </header>
+      <div class="swiper-container js-swiper-container-{{swiperCounter}}">
+        <div
+          class="index-cards-container js-index-cards-container--interactive"
+        >
+          {{#each range-menu}}
+            <article
+              class="index-card index-card--mini index-card--interactive index-card--interactive--active js-index-cards--interactive"
+              data-show-id="AIS-C"
+            >
+              <div class="index-card__container">
+                <div class="index-card__body">
+                  <picture class="index-card__image index-card__image--inline">
+                    <source
+                      class="index-card__image index-card__image--inline"
+                      srcset="assets/images/{{image2x}}"
+                      media="(min-width: 768px)"
+                    />
+                    <img
+                      class="index-card__image index-card__image--inline"
+                      src="assets/images/{{image}}"
+                      alt="{{image-alt}}"
+                    />
+                  </picture>
+                  <h2
+                    class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
+                  >
+                    {{title}}
+                  </h2>
+                </div>
+              </div>
+            </article>
+          {{/each}}
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

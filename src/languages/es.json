@@ -43,49 +43,49 @@
         "title": "reset",
         "image": "assets/images/"
       }
-    ], 
+    ],
     "range-menu": [
       {
-      "title": "CÁNCAMOS",
-      "image":"CANCAMOS.jpg",
-      "image2x":"CANCAMOS@2x.jpg",
-      "image-alt": "Cáncamo"
+        "title": "CÁNCAMOS",
+        "image": "CANCAMOS.jpg",
+        "image2x": "CANCAMOS@2x.jpg",
+        "image-alt": "Cáncamo"
       },
       {
-      "title": "GRILLETES",
-      "image":"GRILLETES.jpg",
-      "image2x":"GRILLETES@2x.jpg",
-      "image-alt": "Grillete"
+        "title": "GRILLETES",
+        "image": "GRILLETES.jpg",
+        "image2x": "GRILLETES@2x.jpg",
+        "image-alt": "Grillete"
       },
       {
-      "title": "GUARDACABOS",
-      "image":"GUARDACABOS.jpg",
-      "image2x":"GUARDACABOS@2x.jpg",
-      "image-alt": "Guardacabo"
+        "title": "GUARDACABOS",
+        "image": "GUARDACABOS.jpg",
+        "image2x": "GUARDACABOS@2x.jpg",
+        "image-alt": "Guardacabo"
       },
       {
-      "title": "TENSORES",
-      "image":"TENSORES.jpg",
-      "image2x":"TENSORES@2x.jpg",
-      "image-alt": "Tensor"
+        "title": "TENSORES",
+        "image": "TENSORES.jpg",
+        "image2x": "TENSORES@2x.jpg",
+        "image-alt": "Tensor"
       },
       {
-      "title": "SUJETACABLES",
-      "image":"SUJETACABLES.jpg",
-      "image2x":"SUJETACABLES@2x.jpg",
-      "image-alt": "Sujetacable"
+        "title": "SUJETACABLES",
+        "image": "SUJETACABLES.jpg",
+        "image2x": "SUJETACABLES@2x.jpg",
+        "image-alt": "Sujetacable"
       },
       {
-      "title": "MOSQUETONES",
-      "image":"MOSQUETONES.jpg",
-      "image2x":"MOSQUETONES@2x.jpg",
-      "image-alt": "Mosquetón"
+        "title": "MOSQUETONES",
+        "image": "MOSQUETONES.jpg",
+        "image2x": "MOSQUETONES@2x.jpg",
+        "image-alt": "Mosquetón"
       },
       {
-      "title": "ESES",
-      "image":"ESES.jpg",
-      "image2x":"ESES@2x.jpg",
-      "image-alt": "Ese"
+        "title": "ESES",
+        "image": "GS-Z.jpg",
+        "image2x": "GS-Z@2x.jpg",
+        "image-alt": "Ese"
       }
     ],
     "range-cards": [
@@ -158,7 +158,7 @@
             "image2x": "assets/images/GI-Z@2x.jpg",
             "image-alt": "GI-Z",
             "url": "https://www.indexfix.com/producto/gi-z-cincado"
-          },  
+          },
           {
             "title": "GR-Z",
             "description": "Grillete recto. Zincado",
@@ -225,7 +225,7 @@
             "image": "assets/images/foto-guardacabos-2.jpg/",
             "image2x": "assets/images/foto-guardacabos-2@2x.jpg",
             "image-alt": "Guardacabo"
-          },        
+          },
           {
             "image": "assets/images/foto-guardacabos-3.jpg/",
             "image2x": "assets/images/foto-guardacabos-3@2x.jpg",
@@ -235,12 +235,12 @@
             "image": "assets/images/foto-guardacabos-4.jpg/",
             "image2x": "assets/images/foto-guardacabos-4@2x.jpg",
             "image-alt": "Guardacabo"
-          },        
+          },
           {
             "image": "assets/images/foto-guardacabos-.jpg/",
             "image2x": "assets/images/foto-guardacabos-@2x.jpg",
             "image-alt": "Guardacabo"
-          }      
+          }
         ]
       },
       {
@@ -314,7 +314,7 @@
             "image": "assets/images/foto-tensores-2.jpg/",
             "image2x": "assets/images/foto-tensores-2@2x.jpg",
             "image-alt": "Tensor"
-          },        
+          },
           {
             "image": "assets/images/foto-tensores-3.jpg/",
             "image2x": "assets/images/foto-tensores-3@2x.jpg",
@@ -324,17 +324,17 @@
             "image": "assets/images/foto-tensores-4.jpg/",
             "image2x": "assets/images/foto-tensores-4@2x.jpg",
             "image-alt": "Tensor"
-          },        
+          },
           {
             "image": "assets/images/foto-tensores-5.jpg/",
             "image2x": "assets/images/foto-tensores-5@2x.jpg",
             "image-alt": "Tensor"
-          },      
+          },
           {
             "image": "assets/images/foto-tensores-6.jpg/",
             "image2x": "assets/images/foto-tensores-6@2x.jpg",
             "image-alt": "Tensor"
-          }      
+          }
         ]
       },
       {
@@ -408,7 +408,7 @@
             "image": "assets/images/foto-sujetacables-2.jpg/",
             "image2x": "assets/images/foto-sujetacables-2@2x.jpg",
             "image-alt": "Sujetacables"
-          },        
+          },
           {
             "image": "assets/images/foto-sujetacables-3.jpg/",
             "image2x": "assets/images/foto-sujetacables-3@2x.jpg",
@@ -418,17 +418,17 @@
             "image": "assets/images/foto-sujetacables-4.jpg/",
             "image2x": "assets/images/foto-sujetacables-4@2x.jpg",
             "image-alt": "Sujetacables"
-          },        
+          },
           {
             "image": "assets/images/foto-sujetacables-5.jpg/",
             "image2x": "assets/images/foto-sujetacables-5@2x.jpg",
             "image-alt": "Sujetacables"
-          },      
+          },
           {
             "image": "assets/images/foto-sujetacables-6.jpg/",
             "image2x": "assets/images/foto-sujetacables-6@2x.jpg",
             "image-alt": "Sujetacables"
-          }      
+          }
         ]
       },
       {
@@ -457,7 +457,7 @@
             "image": "assets/images/foto-mosquetones-1.jpg/",
             "image2x": "assets/images/foto-mosquetones-1@2x.jpg",
             "image-alt": "Mosquetón"
-          }     
+          }
         ]
       },
       {
@@ -478,17 +478,17 @@
             "image": "assets/images/foto-eses-1.jpg/",
             "image2x": "assets/images/foto-eses-1@2x.jpg",
             "image-alt": "Ese"
-          },     
+          },
           {
             "image": "assets/images/foto-eses-2.jpg/",
             "image2x": "assets/images/foto-eses-2@2x.jpg",
             "image-alt": "Ese"
-          },     
+          },
           {
             "image": "assets/images/foto-eses-3.jpg/",
             "image2x": "assets/images/foto-eses-3@2x.jpg",
             "image-alt": "Ese"
-          }     
+          }
         ]
       }
     ]

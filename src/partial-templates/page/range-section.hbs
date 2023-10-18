@@ -58,61 +58,32 @@
               <div class="index-card__container">
                 <div class="index-card__body">
                   <div class="row">
-                    <div class="col-12">
-                      <h2 class="index-card__title index-card__title--xl">
+                    <div class="col-12 filter-header">
+                      <h2 class="index-card__title index-card__title--xxl">
                         {{title}}
                       </h2>
-                      <ul class="filter-bar js-filterBar">
-            <li class="filter-bar__item filter-bar__item--mobile-hide">
-              <button class="filter-button" data-filter="InoxA4" style="">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.07 25.23">
-                  <path d="M13.78,16.87v7.61H9.29V16.87H8.54v8a.37.37,0,0,0,.37.37h5.25a.37.37,0,0,0,.37-.37v-8Z"></path>
-
-                  <path d="M9.29,8.57V.75h4.49V8.57h.75V.38A.38.38,0,0,0,14.16,0H8.91a.38.38,0,0,0-.37.38V8.57Z"></path>
-
-                  <path d="M1.34,9.67v6.21H0V9.67Z"></path>
-
-                  <path d="M3.46,15.88V9.67H5.12c.77,1.39,2.21,3.91,2.49,4.58h0c-.07-.65-.07-1.72-.07-2.74V9.67H8.78v6.21H7.2C6.53,14.66,5,11.77,4.64,11.06h0c0,.54.06,1.82.06,2.93v1.89Z"></path>
-                  <path d="M16.59,12.75A3,3,0,0,1,13.54,16a2.9,2.9,0,0,1-3-3.2,3,3,0,0,1,3.06-3.19A2.88,2.88,0,0,1,16.59,12.75Zm-4.63,0c0,1.22.53,2.13,1.63,2.13s1.62-1,1.62-2.1-.48-2.1-1.64-2.1S12,11.54,12,12.74Z"></path>
-
-                  <path class="a" d="M21.52,15.88l-1.33-2.19h0l-1.35,2.19H17.38l2.06-3.13-2-3.08H19l1.26,2.06h0l1.29-2.06H23l-2,3,2.09,3.25Z"></path>
-                </svg>
-
-                <span class="filter-button__text">Recubrimiento Inoxidable A4</span>
-              </button>
-            </li>
-            <li class="filter-bar__item filter-bar__item--mobile-hide">
-              <button class="filter-button" data-filter="Zincado" style="">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.5 29.33">
-                  <path d="M14.82,9.48l-.77-.63,2-2.4h-14a.5.5,0,0,1-.5-.5V.67a.5.5,0,0,1,.5-.5H25.63a.5.5,0,0,1,.5.5v4.2a.51.51,0,0,1-.11.31l-3.56,4.3-.77-.63,3.44-4.16V1.17H2.57V5.45H17.11a.5.5,0,0,1,.45.28.48.48,0,0,1-.06.53Z"></path>
-                  <path d="M26.23,29.17H1.75a.5.5,0,0,1-.5-.5v-4.2a.52.52,0,0,1,.11-.32l3.57-4.3.77.64L2.25,24.65v3.52H25.73V23.89H10.31a.51.51,0,0,1-.45-.29.49.49,0,0,1,.06-.53l2.67-3.22.77.63-2,2.41H26.23a.5.5,0,0,1,.5.5v5.28A.5.5,0,0,1,26.23,29.17Z"></path>
-                  <path class="cls-1" d="M3.5,17H7.08v1.18H1.67v-.86l3.51-5.07H1.67V11.06H7v.84Z"></path>
-                  <path d="M10.66,18.17H9.2V11.06h1.46Z"></path>
-                  <path d="M18.9,18.17H17.44l-2.86-4.68v4.68H13.12V11.06h1.46l2.86,4.68V11.06H18.9Z"></path>
-                  <path d="M26.86,15.8A2.49,2.49,0,0,1,26,17.6a3,3,0,0,1-2,.66,2.65,2.65,0,0,1-2.15-.92,3.76,3.76,0,0,1-.78-2.52v-.44a4.3,4.3,0,0,1,.36-1.81,2.62,2.62,0,0,1,1-1.19,3.21,3.21,0,0,1,3.54.24,2.71,2.71,0,0,1,.87,1.85H25.41a1.51,1.51,0,0,0-.39-1,1.39,1.39,0,0,0-1-.31,1.25,1.25,0,0,0-1.1.52,3,3,0,0,0-.37,1.63v.54a3.14,3.14,0,0,0,.35,1.68,1.21,1.21,0,0,0,1.1.54,1.47,1.47,0,0,0,1-.31,1.42,1.42,0,0,0,.39-1Z"></path>
-                </svg>
-                <span class="filter-button__text">Recubrimiento Cincado</span>
-              </button>
-            </li>
-            <li class="filter-bar__item filter-bar__item--mobile-hide">
-              <button class="filter-button" data-filter="Reset">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-                  <path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z"></path>
-                  <path d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z"></path>
-                </svg>
-              </button>
-            </li>
-          </ul>
+                      <ul class="filter-bar filter-bar--inline js-filterBar-{{@index}}" data-control=".js-filterCovering-{{@index}}">
+                        {{#each ../filters}}
+                          <li class="filter-bar__item filter-bar__item--mobile-hide">
+                            <button class="filter-button" data-filter="{{title}}">
+                              {{{image}}}
+                              {{#if description}}<span class="filter-button__text">{{description}}</span>{{/if}}
+                            </button>
+                          </li>
+                        {{/each}}
+                      </ul>
                     </div>
 
                     <div class="col-12">
-                      <div class="item-list__3-colums pb-3">
+                      <div class="item-list__3-colums pb-3 index-card__description">
                         {{{description}}}
                       </div>
                       <div class="swiper-container js-swiper-container-{{swiperCounter}}">
-                        <div class="index-cards-container">
+                        <div class="index-cards-container js-filterCovering-{{@index}}">
                           {{#each secondary-cards}}
-                            <a target="_blank" href="{{url}}" class="index-card index-card--mini index-card--links">
+                            <a target="_blank" href="{{url}}" class="index-card index-card--mini index-card--links"
+                            data-covering="{{filter}}"
+                            >
                               <article class="index-card__container">
                                 <div class="index-card__body pt-0">
                                   <picture>

@@ -16,6 +16,14 @@ let swiperCounter = {
   pt: -1,
   it: -1,
 };
+let filterCounter = {
+  de: -1,
+  en: -1,
+  es: -1,
+  fr: -1,
+  pt: -1,
+  it: -1,
+};
 
 // let langEs = require("./src/languages/es.json");
 // let langEn = require("./src/languages/en.json");
@@ -95,6 +103,14 @@ function generateHandlerbarsPlugin(language) {
       swiperCounter(option) {
         swiperCounter[language] += 1;
         return swiperCounter[language];
+      },
+
+      initFilterCounter(option) {
+        swiperCounter[language] = -1;
+      },
+      filterCounter(option) {
+        filterCounter[language] += 1;
+        return filterCounter[language];
       },
 
       getContentOfItemKey(index, array, key, option) {

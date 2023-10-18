@@ -33,15 +33,17 @@
     "filters": [
       {
         "title": "inox",
-        "image": "assets/images/"
+        "description": "Recubrimiento Inoxidable",
+        "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.07 25.23'><path d='M13.78 16.87v7.61H9.29v-7.61h-.75v8a.37.37 0 0 0 .37.37h5.25a.37.37 0 0 0 .37-.37v-8Zm-4.49-8.3V.75h4.49v7.82h.75V.38a.38.38 0 0 0-.37-.38H8.91a.38.38 0 0 0-.37.38v8.19Zm-7.95 1.1v6.21H0V9.67Zm2.12 6.21V9.67h1.66c.77 1.39 2.21 3.91 2.49 4.58-.07-.65-.07-1.72-.07-2.74V9.67h1.24v6.21H7.2c-.67-1.22-2.2-4.11-2.56-4.82 0 .54.06 1.82.06 2.93v1.89Zm13.13-3.13A3 3 0 0 1 13.54 16a2.9 2.9 0 0 1-3-3.2 3 3 0 0 1 3.06-3.19 2.88 2.88 0 0 1 2.99 3.14Zm-4.63 0c0 1.22.53 2.13 1.63 2.13s1.62-1 1.62-2.1-.48-2.1-1.64-2.1-1.57.86-1.57 2.06Z'/><path d='m21.52 15.88-1.33-2.19-1.35 2.19h-1.46l2.06-3.13-2-3.08H19l1.26 2.06 1.29-2.06H23l-2 3 2.09 3.25Z' class='a'/></svg>"
       },
       {
         "title": "zinc",
-        "image": "assets/images/"
+        "description": "Recubrimiento Cincado",
+        "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 28.5 29.33'><path d='m14.82 9.48-.77-.63 2-2.4h-14a.5.5 0 0 1-.5-.5V.67a.5.5 0 0 1 .5-.5h23.58a.5.5 0 0 1 .5.5v4.2a.51.51 0 0 1-.11.31l-3.56 4.3-.77-.63 3.44-4.16V1.17H2.57v4.28h14.54a.5.5 0 0 1 .45.28.48.48 0 0 1-.06.53Zm11.41 19.69H1.75a.5.5 0 0 1-.5-.5v-4.2a.52.52 0 0 1 .11-.32l3.57-4.3.77.64-3.45 4.16v3.52h23.48v-4.28H10.31a.51.51 0 0 1-.45-.29.49.49 0 0 1 .06-.53l2.67-3.22.77.63-2 2.41h14.87a.5.5 0 0 1 .5.5v5.28a.5.5 0 0 1-.5.5Z'/><path d='M3.5 17h3.58v1.18H1.67v-.86l3.51-5.07H1.67v-1.19H7v.84Z' class='cls-1'/><path d='M10.66 18.17H9.2v-7.11h1.46Zm8.24 0h-1.46l-2.86-4.68v4.68h-1.46v-7.11h1.46l2.86 4.68v-4.68h1.46Zm7.96-2.37a2.49 2.49 0 0 1-.86 1.8 3 3 0 0 1-2 .66 2.65 2.65 0 0 1-2.15-.92 3.76 3.76 0 0 1-.78-2.52v-.44a4.3 4.3 0 0 1 .36-1.81 2.62 2.62 0 0 1 1-1.19 3.21 3.21 0 0 1 3.54.24 2.71 2.71 0 0 1 .87 1.85h-1.43a1.51 1.51 0 0 0-.39-1 1.39 1.39 0 0 0-1-.31 1.25 1.25 0 0 0-1.1.52 3 3 0 0 0-.37 1.63v.54a3.14 3.14 0 0 0 .35 1.68 1.21 1.21 0 0 0 1.1.54 1.47 1.47 0 0 0 1-.31 1.42 1.42 0 0 0 .39-1Z'/></svg>"
       },
       {
         "title": "reset",
-        "image": "assets/images/"
+        "image": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path fill-rule='evenodd' d='M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z'/><path d='M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z'/></svg>"
       }
     ],
     "range-menu": [
@@ -83,8 +85,8 @@
       },
       {
         "title": "ESES",
-        "image": "GS-Z.jpg",
-        "image2x": "GS-Z@2x.jpg",
+        "image": "ESES.jpg",
+        "image2x": "ESES@2x.jpg",
         "image-alt": "Ese"
       }
     ],
@@ -94,6 +96,7 @@
         "description": "<p>Indicados para aplicaciones industriales y de construcción, para crear puntos de anclajes seguros en estructuras, maquinaria, equipos o cualquier objeto que requiera levantamiento o sujeción mediante una cuerda, un cable o una cadena. La rosca interna de estos cáncamos permite uniones rápidas y seguras.</p><p>INDEX A PERFECT FIXING dispone de una <strong>gran variedad de diámetros y medidas</strong> de cáncamos.</p><p>Están fabricados en acero al carbono con recubrimiento zincado o en acero inoxidable A4, materiales que proporcionan una larga vida útil y gran resistencia a la corrosión y el óxido. La calidad de sus materiales y su cuidado diseño hacen que estos cáncamos proporcionen una <strong>sujeción fiable y segura.</strong></p><p>Antes de usarse, la anilla ha de ser revisada para su correcto asentamiento, además es importante seguir estas indicaciones:</p><ul><li>No se debe continuar con el uso de anillas deformadas ni reutilizarlas, en caso de ser posible estas deberían de ser reemplazadas.</li><li>En caso de instalar el cáncamo en un agujero pasante, una tuerca debe ser completamente roscada y apretada por el otro lado.</li><li>Su uso no es válido como equipo de protección individual (EPIS).</li></ul>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "EV-M",
             "description": "Cáncamo macho D-580. Zincado",
             "image": "assets/images/EV-M.jpg",
@@ -102,6 +105,7 @@
             "url": "https://www.indexfix.com/producto/11500-EV-M-cancamo-macho-d-580-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "EV-M A4",
             "description": "Cáncamo macho D-580. Inoxidable A4",
             "image": "assets/images/EV-M-A4.jpg",
@@ -110,6 +114,7 @@
             "url": "https://www.indexfix.com/producto/ev-m-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "EV-H",
             "description": "Cáncamo hembra D-582. Zincado",
             "image": "assets/images/EV-H.jpg",
@@ -118,6 +123,7 @@
             "url": "https://www.indexfix.com/producto/11501-EV-H-cancamo-hembra-d-582-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "EV-H A4",
             "description": "Cáncamo hembra D-582. Inoxidable A4",
             "image": "assets/images/EV-H-A4.jpg",
@@ -144,6 +150,7 @@
         "description": "<p>El grillete es un accesorio que se utiliza como pieza intermedia entre el cáncamo o gancho y la eslinga. Se compone de una argolla y un perno que se emplean para sujetar cadenas, inmovilizar los objetos o moverlos con mayor agilidad y rapidez.</p><p>INDEX A PERFECT FIXING dispone de una <strong>gran variedad de diámetros y medidas</strong> de grilletes.<p>Grillete lira para amarre de cables, cadenas y cuerdas. Grillete lira de tipo 82016 indicado para elevaciones de carga, también conocido como grillete de arco. Los grilletes lira están diseñados para aguantar hasta dos cargas en su parte de arco, nunca en el perno. Para un correcto uso el bulón siempre ha de ir sujeto al pasador recto mientras que el cable debe tirar del arco del grillete.</p><p>Están fabricados en acero al carbono con recubrimiento zincado o en acero inoxidable A4, materiales que proporcionan una larga vida útil y gran resistencia a la corrosión y el óxido. La calidad de sus materiales y su cuidado diseño hacen que proporcione una <strong>sujeción fiable y segura</strong>.</p>",
         "secondary-cards": [
           {
+            "filter": ["inox"],
             "title": "GI-A4",
             "description": "Grillete lira para amarre de cables, cadenas y cuerdas. Inoxidable A4",
             "image": "assets/images/GI-A4.jpg",
@@ -152,6 +159,7 @@
             "url": "https://www.indexfix.com/producto/gi-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "GI-Z",
             "description": "Grillete lira para amarre de cables, cadenas y cuerdas. Zincado",
             "image": "assets/images/GI-Z.jpg",
@@ -160,6 +168,7 @@
             "url": "https://www.indexfix.com/producto/gi-z-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "GR-Z",
             "description": "Grillete recto. Zincado",
             "image": "assets/images/GI-Z.jpg",
@@ -168,6 +177,7 @@
             "url": "https://www.indexfix.com/producto/11499-GR-Z-grillete-recto-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "GR-A4",
             "description": "Grillete recto. Inoxidable A4",
             "image": "assets/images/GR-A4.jpg",
@@ -199,6 +209,7 @@
         "description": "<p>Los guardacabos son utilizados para proteger los cables o cuerdas de la fricción y el desgaste cuando pasan por una superficie o un ángulo. La curvatura del guardacabos minimiza y distribuye de forma homogéneo los esfuerzos, impidiendo las roturas.</p><p>En INDEX disponemos de dos tipos de recubrimientos para los guardacabos: zincado e Inoxidable A4. El último se recomienda para ambientes más corrosivos donde se requiera de una mayor protección como zonas costeras o espacios con alta frecuencia de condensación.</p><p>Se emplean en diversas aplicaciones, como la náutica, la construcción, la industria o el deporte.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "GD-Z",
             "description": "Guardacabo DIN-6899/A. Zincado",
             "image": "assets/images/GD-Z.jpg",
@@ -207,6 +218,7 @@
             "url": "https://www.indexfix.com/producto/11498-GD-Z-guardacabo-din-6899-a-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "GD-A4",
             "description": "Guardacabo DIN-6899/A. Inoxidable A4",
             "image": "assets/images/GD-A4.jpg",
@@ -248,6 +260,7 @@
         "description": "<p>INDEX A Perfect Fixing tiene una amplia gama de medidas de tensores y versiones: Gancho-anilla, Anilla-Anilla, Gancho-Gancho y Varilla-Varilla. Cada versión tiene sus ventajas y aplicaciones específicas, según el tipo de unión que se requiera.</p><p>Los tensores Gancho-anilla permiten una amplia variedad de instalaciones gracias a la gran versatilidad de montaje que ofrece la combinación de gancho y anilla.</p><p>Los tensores anilla-anilla ofrecen un montaje óptimo para aplicaciones que requieran un elevado nivel de seguridad y mayor resistencia a la tracción, esto se garantiza con la colocación de anillas a ambos lados del tensor).</p><p>Los tensores Gancho-Gancho son especialmente prácticos para instalaciones rápidas y sencillas donde se necesite tensar cabos con gazas, aparejar cables, barras, cadenas, etc.</p><p>Los tensores varilla-varilla están especialmente diseñados para aplicaciones donde se requiera una soldadura para la unión de cables. La soldadura debe ser precisa para garantizar el correcto funcionamiento del conjunto.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "TS-GA",
             "description": "Tensor gancho/anilla DIN-1480. Zincado",
             "image": "assets/images/TS-GA.jpg",
@@ -256,6 +269,7 @@
             "url": "https://www.indexfix.com/producto/11502-TS-GA-tensor-gancho-anilla-din-1480-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "TS-GA A4",
             "description": "Tensor gancho/anilla DIN-1480. Inox A4",
             "image": "assets/images/TS-GA-A4.jpg",
@@ -264,6 +278,7 @@
             "url": "https://www.indexfix.com/producto/ts-ga-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "TS-AA",
             "description": "Tensor anilla/anilla DIN-1480. Zincado",
             "image": "assets/images/TS-AA.jpg",
@@ -272,6 +287,7 @@
             "url": "https://www.indexfix.com/producto/ts-aa-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "TS-AA A4",
             "description": "Tensor anilla/anilla DIN-1480. Inox A4",
             "image": "assets/images/TS-AA-A4.jpg",
@@ -280,6 +296,7 @@
             "url": "https://www.indexfix.com/producto/ts-aa-a4-inoxidable-a4"
           },
           {
+            "filter": ["inox"],
             "title": "TS-VS",
             "description": "Tensor varilla soldar",
             "image": "assets/images/TS-VS.jpg",
@@ -288,6 +305,7 @@
             "url": "https://www.indexfix.com/producto/ts-vs-tensor-varilla-soldar"
           },
           {
+            "filter": ["zinc"],
             "title": "TS-GG",
             "description": "Tensor gancho/anilla DIN-1480. Zincado",
             "image": "assets/images/TS-GG.jpg",
@@ -296,6 +314,7 @@
             "url": "https://www.indexfix.com/producto/ts-gg-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "TS-GG A4",
             "description": "Tensor gancho/anilla DIN-1480. Zincado",
             "image": "assets/images/TS-GG-A4.jpg",
@@ -342,6 +361,7 @@
         "description": "<p>Los sujetables permiten pasar el cable por el interior sin tener que utilizar herramientas especializadas.</p><p>Los sujetacables planos, disponen de una tuerca en la parte trasera que, apretándolo ofrece un montaje rápido, eficaz y seguro. Se logra, además, un montaje más estético reduciendo la visibilidad de las uniones.</p><p>Se emplea en diferentes sectores industriales y de construcción. Las versiones inoxidables A4, permiten su uso en aplicaciones náuticas o a la intemperie.</p><p>Para un correcto uso del sujetacable la distancia entre fijaciones ha de ser entre 1,5 y 3 veces la anchura del mismo.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "SJ-Z",
             "description": "Sujetacable DIN 741. Zincado",
             "image": "assets/images/SJ-Z.jpg",
@@ -350,6 +370,7 @@
             "url": "https://www.indexfix.com/producto/11503-SJ-Z-sujetacable-din-741-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "SJ-A4",
             "description": "Sujetacable DIN 741. Inoxidable A4",
             "image": "assets/images/SJ-A4.jpg",
@@ -358,6 +379,7 @@
             "url": "https://www.indexfix.com/producto/sj-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-O",
             "description": "Sujetacable oval DIN 741. Zincado",
             "image": "assets/images/SJ-O.jpg",
@@ -366,6 +388,7 @@
             "url": "https://www.indexfix.com/producto/sj-o-sujetacable-oval-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-PS",
             "description": "Sujetacable plano. Simple. Zincado",
             "image": "assets/images/SJ-PS.jpg",
@@ -374,6 +397,7 @@
             "url": "https://www.indexfix.com/producto/sj-ps-simple-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "SJ-PS A4",
             "description": "Sujetacable plano. Simple. Inoxidable A4",
             "image": "assets/images/SJ-PS A4.jpg",
@@ -382,6 +406,7 @@
             "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-PD",
             "description": "Sujetacable plano. Doble. Zincado",
             "image": "assets/images/SJ-PD.jpg",
@@ -390,6 +415,7 @@
             "url": "https://www.indexfix.com/producto/sj-pd-doble-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-PD A4",
             "description": "Tensor gancho/anilla DIN-1480. Zincado",
             "image": "assets/images/SJ-PD-A4.jpg",
@@ -433,9 +459,10 @@
       },
       {
         "title": "MOSQUETONES",
-        "description": "<p>Mosquetón bombero con seguro de tipo 5299. Indicado para unir y asegurar objetos de forma rápida y segura mediante un mecanismo de cierre y apertura fácil. Cuenta con un seguro roscado que impide que el mecanismo se abra por accidente. La superficie de este seguro está moleteada, para que sea más sencilla su manipulación con los dedos.</p><p>Está fabricado en acero al carbono, con un recubrimiento zincado que le confiere una mayor protección contra la corrosión y el óxido.</p><p>Su diseño versátil y duradero lo convierte en una opción de anclaje segura.</p><ul><li><strong>Seguro anti-apertura</strong>. El mosquetón cuenta con un seguro roscado que impide que el mecanismo se abra por accidente. La superficie de este seguro está moleteada, para que sea más sencilla su manipulación con los dedos.</li><li>strong>Mecanismo de cierre y apertura sencillo</strong>. Indicado para unir y asegurar objetos de forma rápida y segura mediante un mecanismo de cierre y apertura fácil.</li><li><strong>Acero zincado</strong>. Fabricado en acero al carbono, con un recubrimiento zincado que le confiere una mayor protección contra la corrosión y el óxido.</li><li><strong>Diseño versátil</strong. Amplia gama de medidas de esta fijación, desde M4(Ø6) mm hasta M12(Ø20) mm. Además, también dispone de un modelo de este mosquetón con rosca de seguridad.</li><li><strong>Seguridad</strong>. Su diseño versátil y duradero lo convierte en una opción de anclaje segura.</li></ul><p>INDEX A PERFECT FIXING dispone de una amplia gama de medidas de esta fijación, desde M4(Ø6) mm hasta M15(Ø26) mm. Además, también dispone de un modelo de este mosquetón con rosca de seguridad.</p>",
+        "description": "<p>Mosquetón bombero con seguro de tipo 5299. Indicado para unir y asegurar objetos de forma rápida y segura mediante un mecanismo de cierre y apertura fácil. Cuenta con un seguro roscado que impide que el mecanismo se abra por accidente. La superficie de este seguro está moleteada, para que sea más sencilla su manipulación con los dedos.</p><p>Está fabricado en acero al carbono, con un recubrimiento zincado que le confiere una mayor protección contra la corrosión y el óxido.</p><p>Su diseño versátil y duradero lo convierte en una opción de anclaje segura.</p><ul><li><strong>Seguro anti-apertura</strong>. El mosquetón cuenta con un seguro roscado que impide que el mecanismo se abra por accidente. La superficie de este seguro está moleteada, para que sea más sencilla su manipulación con los dedos.</li><li>strong>Mecanismo de cierre y apertura sencillo</strong>. Indicado para unir y asegurar objetos de forma rápida y segura mediante un mecanismo de cierre y apertura fácil.</li><li><strong>Acero zincado</strong>. Fabricado en acero al carbono, con un recubrimiento zincado que le confiere una mayor protección contra la corrosión y el óxido.</li><li><strong>Diseño versátil</strong>. Amplia gama de medidas de esta fijación, desde M4(Ø6) mm hasta M12(Ø20) mm. Además, también dispone de un modelo de este mosquetón con rosca de seguridad.</li><li><strong>Seguridad</strong>. Su diseño versátil y duradero lo convierte en una opción de anclaje segura.</li></ul><p>INDEX A PERFECT FIXING dispone de una amplia gama de medidas de esta fijación, desde M4(Ø6) mm hasta M15(Ø26) mm. Además, también dispone de un modelo de este mosquetón con rosca de seguridad.</p>",
         "secondary-cards": [
           {
+            "filter": ["inox"],
             "title": "MQ-B",
             "description": "Mosquetón bombero",
             "image": "assets/images/MQ-B.jpg",
@@ -444,6 +471,7 @@
             "url": "https://www.indexfix.com/producto/mq-b-mosqueton-bombero"
           },
           {
+            "filter": ["inox"],
             "title": "MQ-BS",
             "description": "Mosquetón bombero. Con seguro",
             "image": "assets/images/MQ-BS.jpg",
@@ -465,6 +493,7 @@
         "description": "<p>Ese zincada indicada para realizar uniones rápidas en cables, cuerdas y cadenas. Su diseño en forma de ’S’ permite enlazar dos sistemas de tracción de forma rápida.</p><p>Está fabricada en acero al carbono con recubrimiento zincado, un material que proporciona una larga vida útil y gran resistencia a la corrosión y el óxido. La calidad de sus materiales y su cuidado diseño hacen que proporcione una sujeción <strong>fiable y segura</strong>.</p><p>INDEX A PERFECT FIXING dispone de una gran variedad de medidas eses zincadas desde M3 a M8.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "GS-Z",
             "description": "Ese zincada",
             "image": "assets/images/GS-Z.jpg",

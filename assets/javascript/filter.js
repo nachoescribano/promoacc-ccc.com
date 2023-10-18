@@ -11,10 +11,10 @@
     window.removeEventListener("testPassive", null, opts);
   } catch (e) {}
 
-  const filterCovering = document.querySelector(".js-filterCovering");
-  const filterBar = document.querySelector(".js-filterBar");
+  const filterBars = document.querySelectorAll("[class *=js-filterBar-]");
 
-  function filteringCover(val) {
+  function filteringCover(val, filterBar) {
+    const filterCovering = document.querySelector(filterBar.dataset.control);
     const allItems = filterCovering.querySelectorAll("[data-covering]");
     const findRegExp = val && new RegExp(val, "i");
     allItems.forEach((item) => {
@@ -47,12 +47,18 @@
     return internalTarget;
   }
 
-  function AddFilter(event) {
+  function AddFilter(event, filterBar) {
     const item = findFilterButton(event.target);
     if (item) {
       const filter = item.dataset.filter;
-      filteringCover(filter === "Reset" ? false : filter);
-      activateStyleFilter(filter === "Reset" ? false : item);
+      filteringCover(
+        filter.toLowerCase() === "reset" ? false : filter,
+        filterBar
+      );
+      activateStyleFilter(
+        filter.toLowerCase() === "reset" ? false : item,
+        filterBar
+      );
     }
   }
 
@@ -76,7 +82,7 @@
     }
   }
 
-  function activateStyleFilter(item) {
+  function activateStyleFilter(item, filterBar) {
     const activeClass = "filter-button--active";
     const actualFilter = filterBar.querySelector("." + activeClass);
     actualFilter && actualFilter.classList.remove(activeClass);
@@ -89,14 +95,39 @@
   }
   const throttledShowInfoFilter = _.throttle(showInfoFilter, 60);
   const throttledHideInfoFilter = _.throttle(hideInfoFilter, 60);
-  filterBar.addEventListener("click", AddFilter, false);
-  filterBar.addEventListener(
-    "touchstart",
-    AddFilter,
-    supportsPassive ? { passive: true } : false
-  );
-  filterBar.querySelectorAll(".filter-button").forEach((filterButton) => {
-    filterButton.addEventListener("mouseover", throttledShowInfoFilter, false);
-    filterButton.addEventListener("mouseleave", throttledHideInfoFilter, false);
+  // filterBar.addEventListener("click", AddFilter, false);
+  // filterBar.addEventListener(
+  //   "touchstart",
+  //   AddFilter,
+  //   supportsPassive ? { passive: true } : false
+  // );
+  // filterBar.querySelectorAll(".filter-button").forEach((filterButton) => {
+  //   filterButton.addEventListener("mouseover", throttledShowInfoFilter, false);
+  //   filterButton.addEventListener("mouseleave", throttledHideInfoFilter, false);
+  // });
+
+  filterBars.forEach((filterBar) => {
+    filterBar.addEventListener(
+      "click",
+      (event) => AddFilter(event, filterBar),
+      false
+    );
+    filterBar.addEventListener(
+      "touchstart",
+      AddFilter,
+      supportsPassive ? { passive: true } : false
+    );
+    filterBar.querySelectorAll(".filter-button").forEach((filterButton) => {
+      filterButton.addEventListener(
+        "mouseover",
+        throttledShowInfoFilter,
+        false
+      );
+      filterButton.addEventListener(
+        "mouseleave",
+        throttledHideInfoFilter,
+        false
+      );
+    });
   });
 })();

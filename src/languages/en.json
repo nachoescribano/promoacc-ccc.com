@@ -1,0 +1,519 @@
+{
+  "lang": "en",
+  "description": "Accessories for zinc plated and stainless steel cables and chains for effective installation outdoors",
+  "keywords": "Accessories for zinc plated and stainless steel cables and chains for effective installation outdoors",
+  "title": "Accessories for Cables and Chains",
+  "home": "Home",
+  "features": "Characteristics",
+  "range": "Range",
+  "contact": "Contact",
+  "back-to-top": "Return to Home",
+  "show-aside": "show shortcuts",
+  "main-section": {
+    "title": "Accessories for Cables and Chains",
+    "image-alt": "Operator adjusting a cable turnbuckle",
+    "p": "The range is made up of cable clamps, carabiners, turnbuckles, eye bolts, shackles and thimbles designed for fastening, attachment, cable protection and effective installation outdoors. The whole range is available both zinc plated and in stainless steel."
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com",
+    "menu": "Menu"
+  },
+  "features-section": {
+    "title": "What are accessories for cables and chains used for?",
+    "image": "assets/images/",
+    "image-alt": "shackle",
+    "p1": "INDEX&apos;s accessories for cables and chains (made from steel or stainless steel) are designed to safely hold heavy loads and can withstand adverse weather conditions, making them perfect for outdoor applications.",
+    "p2": "They are mainly used to fix, support and protect steel cables, visible cables, ropes and chains. Within this category, you will find a wide range of accessories with various functions such as cable clamps for connections between cables; eye bolts, perfect for lifting objects under tension; shackles for attaching chains and restraining a load; and thimbles, ideal for protecting cables effectively."
+  },
+  "range-section": {
+    "title": "Range",
+    "more-info": "More information",
+    "typical-applications": "Common applications",
+    "filters": [
+      {
+        "title": "stainless steel",
+        "image": "assets/images/"
+      },
+      {
+        "title": "zinc",
+        "image": "assets/images/"
+      },
+      {
+        "title": "reset",
+        "image": "assets/images/"
+      }
+    ],
+    "range-menu": [
+      {
+        "title": "EYE BOLTS",
+        "image": "CANCAMOS.jpg",
+        "image2x": "CANCAMOS@2x.jpg",
+        "image-alt": "Eye bolt"
+      },
+      {
+        "title": "SHACKLES",
+        "image": "GRILLETES.jpg",
+        "image2x": "GRILLETES@2x.jpg",
+        "image-alt": "Shackle"
+      },
+      {
+        "title": "THIMBLE",
+        "image": "GUARDACABOS.jpg",
+        "image2x": "GUARDACABOS@2x.jpg",
+        "image-alt": "Thimble"
+      },
+      {
+        "title": "TURNBUCKLE",
+        "image": "TENSORES.jpg",
+        "image2x": "TENSORES@2x.jpg",
+        "image-alt": "Turnbuckle"
+      },
+      {
+        "title": "CABLE CLAMP",
+        "image": "SUJETACABLES.jpg",
+        "image2x": "SUJETACABLES@2x.jpg",
+        "image-alt": "Cable clamp"
+      },
+      {
+        "title": "CARABINERS",
+        "image": "MOSQUETONES.jpg",
+        "image2x": "MOSQUETONES@2x.jpg",
+        "image-alt": "Carabiner"
+      },
+      {
+        "title": "S",
+        "image": "ESES.jpg",
+        "image2x": "ESES@2x.jpg",
+        "image-alt": "S"
+      }
+    ],
+    "range-cards": [
+      {
+        "title": "EYE BOLTS",
+        "description": "<p>Suitable for industrial and construction applications, for creating secure anchor points in structures, machinery, equipment or any element that requires lifting or attachment with a rope, cable or chain. The internal thread of these eye bolts allows quick, secure connections.</p><p>INDEX A PERFECT FIXING has a <strong>wide variety of diameters and measurements</strong> of eye bolts.</p><p>They are made from carbon steel with zinc plating or from A4 stainless steel, materials which offer a long lifespan and great resistance to corrosion and rust. The quality of their materials and their meticulous design means that these eye bolts provide <strong>reliable and secure attachment.</strong></p><p>Before use, the ring must be checked for its proper installation, and it is also important to follow these instructions:</p><ul><li>Deformed rings must not continue to be used or be reused, and must be replaced if possible.</li><li>In case of installing the eye bolt in a through hole, a nut must be completely threaded and tightened on the other side.</li><li>Their use is not valid as personal protective equipment (PPE).</li></ul>",
+        "secondary-cards": [
+          {
+            "title": "EV-M",
+            "description": "Male eye bolt D-580. Zinc-plated",
+            "image": "assets/images/EV-M.jpg",
+            "image2x": "assets/images/EV-M@2x.jpg",
+            "image-alt": "EV-M",
+            "url": "https://www.indexfix.com/producto/11500-EV-M-cancamo-macho-d-580-cincado"
+          },
+          {
+            "title": "EV-M A4",
+            "description": "Male eye bolt D-580. Stainless A4",
+            "image": "assets/images/EV-M-A4.jpg",
+            "image2x": "assets/images/EV-M-A4@2x.jpg",
+            "image-alt": "EV-M A4",
+            "url": "https://www.indexfix.com/producto/ev-m-a4-inoxidable-a4"
+          },
+          {
+            "title": "EV-H",
+            "description": "Female eye bolt D-582. Zinc-plated",
+            "image": "assets/images/EV-H.jpg",
+            "image2x": "assets/images/EV-H@2x.jpg",
+            "image-alt": "EV-H",
+            "url": "https://www.indexfix.com/producto/11501-EV-H-cancamo-hembra-d-582-cincado"
+          },
+          {
+            "title": "EV-H A4",
+            "description": "Female eye bolt D-582. Stainless A4",
+            "image": "assets/images/EV-H-A4.jpg",
+            "image2x": "assets/images/EV-H-A4@2x.jpg",
+            "image-alt": "EV-H A4",
+            "url": "https://www.indexfix.com/producto/ev-h-a4-inoxidable-a4"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-cancamos-1.jpg",
+            "image2x": "assets/images/foto-cancamos-1@2x.jpg",
+            "image-alt": "Eye bolt"
+          },
+          {
+            "image": "assets/images/foto-cancamos-2.jpg",
+            "image2x": "assets/images/foto-cancamos-2@2x.jpg",
+            "image-alt": "Eye bolt"
+          }
+        ]
+      },
+      {
+        "title": "SHACKLES",
+        "description": "<p>A shackle is an accessory used as an intermediary piece between the eye bolt or hook and the sling. It is comprised of a ring and a pin that are used to support chains, immobilise objects or move them in a faster and more streamlined way.</p><p>INDEX A PERFECT FIXING has a <strong>wide variety of diameters and measurements</strong> of shackles.<p>Lyre shackle for fastening cables, chains and ropes. Lyre shackle type 82016 suitable for lifting loads, also known as an arc shackle. Lyre shackles are designed to withstand up to two loads on their arc section, never on the pin. For proper use, the bolt must always be attached to the straight pin while the cable must pull on the arc of the shackle.</p><p>They are made from carbon steel with zinc plating or from A4 stainless steel, materials which offer a long lifespan and great resistance to corrosion and rust. The quality of their materials and their meticulous design means that they provide <strong>reliable and secure attachment.</strong></p>",
+        "secondary-cards": [
+          {
+            "title": "GI-A4",
+            "description": "Lyre shackle for fastening cables, chains and ropes. Stainless A4",
+            "image": "assets/images/GI-A4.jpg",
+            "image2x": "assets/images/GI-A4@2x.jpg",
+            "image-alt": "GI-A4",
+            "url": "https://www.indexfix.com/producto/gi-a4-inoxidable-a4"
+          },
+          {
+            "title": "GI-Z",
+            "description": "Lyre shackle for fastening cables, chains and ropes. Zinc-plated",
+            "image": "assets/images/GI-Z.jpg",
+            "image2x": "assets/images/GI-Z@2x.jpg",
+            "image-alt": "GI-Z",
+            "url": "https://www.indexfix.com/producto/gi-z-cincado"
+          },
+          {
+            "title": "GR-Z",
+            "description": "Straight shackle. Zinc-plated",
+            "image": "assets/images/GI-Z.jpg",
+            "image2x": "assets/images/GI-Z@2x.jpg",
+            "image-alt": "GR-Z",
+            "url": "https://www.indexfix.com/producto/11499-GR-Z-grillete-recto-cincado"
+          },
+          {
+            "title": "GR-A4",
+            "description": "Straight shackle. Stainless A4",
+            "image": "assets/images/GR-A4.jpg",
+            "image2x": "assets/images/GR-A4@2x.jpg",
+            "image-alt": "GR-A4",
+            "url": "https://www.indexfix.com/producto/gr-a4-inoxidable-a4"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-grilletes-1.jpg",
+            "image2x": "assets/images/foto-grilletes-1@2x.jpg",
+            "image-alt": "Shackle"
+          },
+          {
+            "image": "assets/images/foto-grilletes-2.jpg",
+            "image2x": "assets/images/foto-grilletes-2@2x.jpg",
+            "image-alt": "Shackle"
+          },
+          {
+            "image": "assets/images/foto-grilletes-3.jpg",
+            "image2x": "assets/images/foto-grilletes-3@2x.jpg",
+            "image-alt": "Shackle"
+          }
+        ]
+      },
+      {
+        "title": "THIMBLE",
+        "description": "<p>Thimbles are used to protect cables or ropes from friction and wear when they pass over a surface or angle. The curvature of the thimbles minimise and evenly distribute the forces, preventing breakages.</p><p>At INDEX we have two types of coatings for thimbles: zinc and A4 stainless steel. The latter is recommended for more corrosive atmospheres where greater protection is required, such as coastal areas or spaces with a high incidence of condensation.</p><p>They are used for various applications, such as nautical, construction, industrial and sports uses.</p>",
+        "secondary-cards": [
+          {
+            "title": "GD-Z",
+            "description": "Thimble DIN-6899/A Zinc-plated",
+            "image": "assets/images/GD-Z.jpg",
+            "image2x": "assets/images/GD-Z@2x.jpg",
+            "image-alt": "GD-Z",
+            "url": "https://www.indexfix.com/producto/11498-GD-Z-guardacabo-din-6899-a-cincado"
+          },
+          {
+            "title": "GD-A4",
+            "description": "Thimble DIN-6899/A Stainless A4",
+            "image": "assets/images/GD-A4.jpg",
+            "image2x": "assets/images/GD-A4@2x.jpg",
+            "image-alt": "GI-A4",
+            "url": "https://www.indexfix.com/producto/gd-a4-inoxidable-a4"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-guardacabos-1.jpg/",
+            "image2x": "assets/images/foto-guardacabos-1@2x.jpg",
+            "image-alt": "Thimble"
+          },
+          {
+            "image": "assets/images/foto-guardacabos-2.jpg/",
+            "image2x": "assets/images/foto-guardacabos-2@2x.jpg",
+            "image-alt": "Thimble"
+          },
+          {
+            "image": "assets/images/foto-guardacabos-3.jpg/",
+            "image2x": "assets/images/foto-guardacabos-3@2x.jpg",
+            "image-alt": "Thimble"
+          },
+          {
+            "image": "assets/images/foto-guardacabos-4.jpg/",
+            "image2x": "assets/images/foto-guardacabos-4@2x.jpg",
+            "image-alt": "Thimble"
+          },
+          {
+            "image": "assets/images/foto-guardacabos-.jpg/",
+            "image2x": "assets/images/foto-guardacabos-@2x.jpg",
+            "image-alt": "Thimble"
+          }
+        ]
+      },
+      {
+        "title": "TURNBUCKLE",
+        "description": "<p>INDEX A Perfect Fixing has a wide range of measurements and versions of turnbuckles: Hook-Ring, Ring-Ring, Hook-Hook and Rod-Rod. Each version has its specific advantages and applications, depending on the type of connection required.</p><p>Hook-Ring turnbuckles allow a wide variety of installations thanks to the great versatility of assembly offered by the hook and ring combination.</p><p>Ring-Ring turnbuckles offer optimal installation for applications that require a high level of reliability and greater resistance to traction; this is guaranteed with the installation of rings on both sides of the turnbuckle.</p><p>Hook-Hook turnbuckles are especially practical for quick, easy installations which require tightening ropes with loops, harnessing cables, bars, chains, etc.</p><p>Rod-rod turnbuckles are specially designed for applications where welding is required for the connection of cables. Welding must be precise to guarantee the proper performance of the assembly.</p>",
+        "secondary-cards": [
+          {
+            "title": "TS-GA",
+            "description": "Turnbuckle hook/ring DIN-1480. Zinc-plated",
+            "image": "assets/images/TS-GA.jpg",
+            "image2x": "assets/images/TS-GA@2x.jpg",
+            "image-alt": "TS-GA",
+            "url": "https://www.indexfix.com/producto/11502-TS-GA-tensor-gancho-anilla-din-1480-cincado"
+          },
+          {
+            "title": "TS-GA A4",
+            "description": "Turnbuckle hook/ring DIN-1480. A4 stainless steel",
+            "image": "assets/images/TS-GA-A4.jpg",
+            "image2x": "assets/images/TS-GA-A4@2x.jpg",
+            "image-alt": "TS-GA A4",
+            "url": "https://www.indexfix.com/producto/ts-ga-a4-inoxidable-a4"
+          },
+          {
+            "title": "TS-AA",
+            "description": "Turnbuckle ring/ring DIN-1480. Zinc-plated",
+            "image": "assets/images/TS-AA.jpg",
+            "image2x": "assets/images/TS-AA@2x.jpg",
+            "image-alt": "TS-AA",
+            "url": "https://www.indexfix.com/producto/ts-aa-cincado"
+          },
+          {
+            "title": "TS-AA A4",
+            "description": "Turnbuckle ring/ring DIN-1480. A4 stainless steel",
+            "image": "assets/images/TS-AA-A4.jpg",
+            "image2x": "assets/images/TS-AA-A4@2x.jpg",
+            "image-alt": "TS-AA A4",
+            "url": "https://www.indexfix.com/producto/ts-aa-a4-inoxidable-a4"
+          },
+          {
+            "title": "TS-VS",
+            "description": "Welding rod turnbuckle",
+            "image": "assets/images/TS-VS.jpg",
+            "image2x": "assets/images/TS-VS@2x.jpg",
+            "image-alt": "TS-VS",
+            "url": "https://www.indexfix.com/producto/ts-vs-tensor-varilla-soldar"
+          },
+          {
+            "title": "TS-GG",
+            "description": "Turnbuckle hook/ring DIN-1480. Zinc-plated",
+            "image": "assets/images/TS-GG.jpg",
+            "image2x": "assets/images/TS-GG@2x.jpg",
+            "image-alt": "TS-GG",
+            "url": "https://www.indexfix.com/producto/ts-gg-cincado"
+          },
+          {
+            "title": "TS-GG A4",
+            "description": "Turnbuckle hook/ring DIN-1480. Zinc-plated",
+            "image": "assets/images/TS-GG-A4.jpg",
+            "image2x": "assets/images/TS-GG-A4@2x.jpg",
+            "image-alt": "TS-GG A4",
+            "url": "https://www.indexfix.com/producto/ts-gg-a4-inoxidable-a4"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-tensores-1.jpg/",
+            "image2x": "assets/images/foto-tensores-1@2x.jpg",
+            "image-alt": "Turnbuckle"
+          },
+          {
+            "image": "assets/images/foto-tensores-2.jpg/",
+            "image2x": "assets/images/foto-tensores-2@2x.jpg",
+            "image-alt": "Turnbuckle"
+          },
+          {
+            "image": "assets/images/foto-tensores-3.jpg/",
+            "image2x": "assets/images/foto-tensores-3@2x.jpg",
+            "image-alt": "Turnbuckle"
+          },
+          {
+            "image": "assets/images/foto-tensores-4.jpg/",
+            "image2x": "assets/images/foto-tensores-4@2x.jpg",
+            "image-alt": "Turnbuckle"
+          },
+          {
+            "image": "assets/images/foto-tensores-5.jpg/",
+            "image2x": "assets/images/foto-tensores-5@2x.jpg",
+            "image-alt": "Turnbuckle"
+          },
+          {
+            "image": "assets/images/foto-tensores-6.jpg/",
+            "image2x": "assets/images/foto-tensores-6@2x.jpg",
+            "image-alt": "Turnbuckle"
+          }
+        ]
+      },
+      {
+        "title": "CABLE CLAMP",
+        "description": "<p>Cable clamps allow the cable to be passed through the interior without having to use specialised tools.</p><p>Flat cable clamps have a nut on the rear section, which when tightened offer quick, effective and secure assembly. A more aesthetic assembly is also achieved, reducing the visibility of the connections.</p><p>They are used in different industrial and construction sectors. A4 stainless steel versions allow their use in nautical applications or inclement weather.</p><p>For proper use of the cable clamp, the distance between fastenings must be between 1.5 and 3 times its width.</p>",
+        "secondary-cards": [
+          {
+            "title": "SJ-Z",
+            "description": "Cable clamp DIN 741. Zinc-plated",
+            "image": "assets/images/SJ-Z.jpg",
+            "image2x": "assets/images/SJ-Z@2x.jpg",
+            "image-alt": "SJ-Z",
+            "url": "https://www.indexfix.com/producto/11503-SJ-Z-sujetacable-din-741-cincado"
+          },
+          {
+            "title": "SJ-A4",
+            "description": "Cable clamp DIN 741. Stainless A4",
+            "image": "assets/images/SJ-A4.jpg",
+            "image2x": "assets/images/SJ-A4@2x.jpg",
+            "image-alt": "SJ-A4",
+            "url": "https://www.indexfix.com/producto/sj-a4-inoxidable-a4"
+          },
+          {
+            "title": "SJ-O",
+            "description": "Oval cable clamp DIN 741. Zinc-plated",
+            "image": "assets/images/SJ-O.jpg",
+            "image2x": "assets/images/SJ-O@2x.jpg",
+            "image-alt": "SJ-O",
+            "url": "https://www.indexfix.com/producto/sj-o-sujetacable-oval-cincado"
+          },
+          {
+            "title": "SJ-PS",
+            "description": "Flat cable clamp. Single. Zinc-plated",
+            "image": "assets/images/SJ-PS.jpg",
+            "image2x": "assets/images/SJ-PS@2x.jpg",
+            "image-alt": "SJ-PS",
+            "url": "https://www.indexfix.com/producto/sj-ps-simple-cincado"
+          },
+          {
+            "title": "SJ-PS A4",
+            "description": "Flat cable clamp. Single. Stainless A4",
+            "image": "assets/images/SJ-PS A4.jpg",
+            "image2x": "assets/images/SJ-PS A4@2x.jpg",
+            "image-alt": "SJ-PS A4",
+            "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
+          },
+          {
+            "title": "SJ-PD",
+            "description": "Flat cable clamp. Double. Zinc-plated",
+            "image": "assets/images/SJ-PD.jpg",
+            "image2x": "assets/images/SJ-PD@2x.jpg",
+            "image-alt": "SJ-PD",
+            "url": "https://www.indexfix.com/producto/sj-pd-doble-cincado"
+          },
+          {
+            "title": "SJ-PD A4",
+            "description": "Turnbuckle hook/ring DIN-1480. Zinc-plated",
+            "image": "assets/images/SJ-PD-A4.jpg",
+            "image2x": "assets/images/SJ-PD-A4@2x.jpg",
+            "image-alt": "SJ-PD A4",
+            "url": "https://www.indexfix.com/producto/sj-pd-a4-doble-inoxidable-a4"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-sujetacables-1.jpg/",
+            "image2x": "assets/images/foto-sujetacables-1@2x.jpg",
+            "image-alt": "Cable clamp"
+          },
+          {
+            "image": "assets/images/foto-sujetacables-2.jpg/",
+            "image2x": "assets/images/foto-sujetacables-2@2x.jpg",
+            "image-alt": "Cable clamp"
+          },
+          {
+            "image": "assets/images/foto-sujetacables-3.jpg/",
+            "image2x": "assets/images/foto-sujetacables-3@2x.jpg",
+            "image-alt": "Cable clamp"
+          },
+          {
+            "image": "assets/images/foto-sujetacables-4.jpg/",
+            "image2x": "assets/images/foto-sujetacables-4@2x.jpg",
+            "image-alt": "Cable clamp"
+          },
+          {
+            "image": "assets/images/foto-sujetacables-5.jpg/",
+            "image2x": "assets/images/foto-sujetacables-5@2x.jpg",
+            "image-alt": "Cable clamp"
+          },
+          {
+            "image": "assets/images/foto-sujetacables-6.jpg/",
+            "image2x": "assets/images/foto-sujetacables-6@2x.jpg",
+            "image-alt": "Cable clamp"
+          }
+        ]
+      },
+      {
+        "title": "CARABINERS",
+        "description": "<p>Firefighter carabiner with lock type 5299. Suitable for connecting and fastening objects quickly and securely through a locking and easy opening mechanism. It has a threaded lock that prevents the mechanism from opening by accident. The surface of this lock is knurled, so that its manipulation with the fingers is easier.</p><p>It is made from carbon steel, with a zinc coating that gives it greater protection against corrosion and rust.</p><p>Its versatile and durable design makes it a secure fastening option.</p><ul><li><strong>Anti-opening lock</strong>. The carabiner has a threaded lock that prevents the mechanism from opening by accident. The surface of this lock is knurled, so that its manipulation with the fingers is easier.</li><li>strong&gt;Locking and easy opening mechanism</strong>. Suitable for connecting and fastening objects quickly and securely through a locking and easy opening mechanism.</li><li><strong>Zinc-plated steel</strong>. Made from carbon steel, with a zinc coating that gives it greater protection against corrosion and rust.</li><li><strong>Versatile design</strong. Wide range of measurements of this fixing, from M4(&Oslash;6)mm to M12(&Oslash;20)mm. Additionally, there is also a model of this carabiner with safety screw thread.</li><li><strong>Safety</strong>. Its versatile and durable design makes it a secure fastening option.</li></ul><p>INDEX A PERFECT FIXING has a wide range of measurements of this fixing, from M4(&Oslash;6)mm to M15(&Oslash;26)mm. Additionally, there is also a model of this carabiner with safety screw thread.</p>",
+        "secondary-cards": [
+          {
+            "title": "MQ-B",
+            "description": "Firefighter carabiner",
+            "image": "assets/images/MQ-B.jpg",
+            "image2x": "assets/images/MQ-B@2x.jpg",
+            "image-alt": "MQ-B",
+            "url": "https://www.indexfix.com/producto/mq-b-mosqueton-bombero"
+          },
+          {
+            "title": "MQ-BS",
+            "description": "Firefighter carabiner. With safety lock",
+            "image": "assets/images/MQ-BS.jpg",
+            "image2x": "assets/images/MQ-BS@2x.jpg",
+            "image-alt": "MQ-BS",
+            "url": "https://www.indexfix.com/producto/mq-bs-con-seguro"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-mosquetones-1.jpg/",
+            "image2x": "assets/images/foto-mosquetones-1@2x.jpg",
+            "image-alt": "Carabiner"
+          }
+        ]
+      },
+      {
+        "title": "S",
+        "description": "<p>Zinc plated S suitable for making quick connections of cables, ropes and chains. Its &ldquo;S&rdquo; shaped design allows traction systems to be quickly linked.</p><p>It is made from carbon steel with zinc plating, a material which offers a long lifespan and great resistance to corrosion and rust. The quality of their materials and their meticulous design means that they provide <strong>reliable and secure attachment.</strong></p><p>INDEX A PERFECT FIXING has a wide variety of measurements of zinc-plated S from M3 to M8.</p>",
+        "secondary-cards": [
+          {
+            "title": "GS-Z",
+            "description": "Zinc-plated S",
+            "image": "assets/images/GS-Z.jpg",
+            "image2x": "assets/images/GS-Z@2x.jpg",
+            "image-alt": "GS-Z",
+            "url": "https://www.indexfix.com/producto/gs-z-ese-cincada"
+          }
+        ],
+        "applications": [
+          {
+            "image": "assets/images/foto-eses-1.jpg/",
+            "image2x": "assets/images/foto-eses-1@2x.jpg",
+            "image-alt": "S"
+          },
+          {
+            "image": "assets/images/foto-eses-2.jpg/",
+            "image2x": "assets/images/foto-eses-2@2x.jpg",
+            "image-alt": "S"
+          },
+          {
+            "image": "assets/images/foto-eses-3.jpg/",
+            "image2x": "assets/images/foto-eses-3@2x.jpg",
+            "image-alt": "S"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Request more information",
+    "error": "Error",
+    "close": "Close",
+    "name": "Name",
+    "surnames": "Surname",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Telephone",
+    "phone-legend": "Accepted format 613445599 or +34613445599",
+    "message": "Message/Query",
+    "personal-data": "I authorise the use of my personal data by the technical staff of T&eacute;cnicas Expansivas SL (Tax ID [CIF] B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.",
+    "legal-data": "I have read and accept the <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.",
+    "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.",
+    "description-2": "The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup> of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.",
+    "description-3": "We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted. Therefore, if you send this type of data, it will be at your own risk.",
+    "description-4": "The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup> of April 2016 by sending a letter to the data controller: Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.com",
+    "button-send": "Send"
+  },
+  "menu-aside": {
+    "button-features": "Characteristics",
+    "button-range": "See range",
+    "button-info": "Information"
+  }
+}

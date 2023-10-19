@@ -4,7 +4,7 @@
     <div class="container">
       <header class="section__header">
         <h2 class="section__title">
-          {{title}}
+          {{{title}}}
         </h2>
       </header>
       <div class="swiper-container js-swiper-container-{{swiperCounter}}">
@@ -37,7 +37,7 @@
                   <h2
                     class="index-card__title index-card__title--xl index-card__title--center mb-0 mt-1"
                   >
-                    {{title}}
+                    {{{title}}}
                   </h2>
                 </div>
               </div>
@@ -60,14 +60,14 @@
                   <div class="row">
                     <div class="col-12 filter-header">
                       <h2 class="index-card__title index-card__title--xxl">
-                        {{title}}
+                        {{{title}}}
                       </h2>
                       <ul class="filter-bar filter-bar--inline js-filterBar-{{@index}}" data-control=".js-filterCovering-{{@index}}">
                         {{#each ../filters}}
                           <li class="filter-bar__item filter-bar__item--mobile-hide">
                             <button class="filter-button" data-filter="{{title}}">
                               {{{image}}}
-                              {{#if description}}<span class="filter-button__text">{{description}}</span>{{/if}}
+                              {{#if description}}<span class="filter-button__text">{{{description}}}</span>{{/if}}
                             </button>
                           </li>
                         {{/each}}
@@ -93,19 +93,19 @@
                                       media="(min-width: 768px)"
                                     />
                                     <img
-                                      alt="{{image-alt}}"
+                                      alt="{{{image-alt}}}"
                                       class="index-card__image index-card__image--inline"
                                       src="{{image}}"
                                     />
                                   </picture>
                                   <h3 class="index-card__title index-card__title--black mb-0">
-                                    {{title}}
+                                    {{{title}}}
                                   </h3>
                                   <p class="index-card__subtitle mb-0">{{description}}</p>
                                   <footer class="index-card__footer">
                                     <p
                                       class="index-card__link index-card__link--footer"
-                                    >{{../../more-info}}<i
+                                    >{{{../../more-info}}}<i
                                         class="fas fa-arrow-right index-card__link-icon"
                                       ></i></p>
                                   </footer>
@@ -116,7 +116,7 @@
                         </div>
                       </div>
                       <h3 class="section__sub-title section__sub-title_description mb-4">
-                        {{../typical-applications}}
+                        {{{../typical-applications}}}
                       </h3>
                       <div class="swiper-container js-swiper-container-{{swiperCounter}}">
                         <div class="row">

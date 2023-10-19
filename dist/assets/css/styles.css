@@ -417,6 +417,12 @@ h2 {
   text-transform: uppercase;
   margin-bottom: 1.1875rem;
 }
+.index-card__title--xxl {
+  font-size: 2.1875rem;
+  line-height: 1.2285714286;
+  text-transform: uppercase;
+  margin-bottom: 1.6875rem;
+}
 
 .index-card__subtitle {
   font-size: 1rem;
@@ -682,6 +688,30 @@ h2 {
   position: relative;
 }
 .dashed-list__item::before {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 0.5em;
+  left: -1.25em;
+  width: 0.90em;
+  height: 1px;
+  background-color: currentColor;
+}
+
+.index-card__description ul {
+  list-style: none;
+  font-size: 1rem;
+  line-height: 1.25;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: var(--color-black);
+  padding-left: 2em;
+}
+.index-card__description  li {
+  margin-bottom: 0.6875rem;
+  position: relative;
+}
+.index-card__description li::before {
   content: '';
   position: absolute;
   display: block;
@@ -1248,8 +1278,9 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     display: flex;
     padding-top: 0;
     margin: auto;
-    justify-content: space-between;
+    justify-content: start;
     max-width: 1280px;
+    gap: 3rem;
   }
   .nav-menu {
     overflow: hidden;
@@ -1294,6 +1325,10 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
   justify-content: flex-end;
   overflow: hidden;
 }
+.filter-bar--inline {
+  display: inline-flex;
+}
+
 
 .filter-bar__item {
   margin-left: 1rem;
@@ -2124,4 +2159,9 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     padding: 0 1.5rem;
     gap: 0.5rem;
   }
+}
+
+.filter-header {
+  display: flex;
+  justify-content: space-between;
 }

@@ -1278,8 +1278,9 @@ background: linear-gradient(180deg, rgb(80 98 125 / 73%) 0%, rgb(59 89 134 / 42%
     display: flex;
     padding-top: 0;
     margin: auto;
-    justify-content: space-between;
+    justify-content: start;
     max-width: 1280px;
+    gap: 3rem;
   }
   .nav-menu {
     overflow: hidden;

@@ -307,16 +307,16 @@
           {
             "filter": ["zinc"],
             "title": "TS-GG",
-            "description": "Tensor gancho/anilla DIN-1480. Zincado",
+            "description": "Tensor gancho/gancho DIN-1480. Zincado",
             "image": "assets/images/TS-GG.jpg",
             "image2x": "assets/images/TS-GG@2x.jpg",
             "image-alt": "TS-GG",
             "url": "https://www.indexfix.com/producto/ts-gg-cincado"
           },
           {
-            "filter": ["zinc"],
+            "filter": ["inox"],
             "title": "TS-GG A4",
-            "description": "Tensor gancho/anilla DIN-1480. Zincado",
+            "description": "Tensor gancho/gancho DIN-1480. Inox A4",
             "image": "assets/images/TS-GG-A4.jpg",
             "image2x": "assets/images/TS-GG-A4@2x.jpg",
             "image-alt": "TS-GG A4",
@@ -415,9 +415,9 @@
             "url": "https://www.indexfix.com/producto/sj-pd-doble-cincado"
           },
           {
-            "filter": ["zinc"],
+            "filter": ["inox"],
             "title": "SJ-PD A4",
-            "description": "Tensor gancho/anilla DIN-1480. Zincado",
+            "description": "Tensor gancho/anilla DIN-1480. Inoxidable A4",
             "image": "assets/images/SJ-PD-A4.jpg",
             "image2x": "assets/images/SJ-PD-A4@2x.jpg",
             "image-alt": "SJ-PD A4",

@@ -93,6 +93,7 @@
         "description": "<p>Indicati per applicazioni industriali ed edilizie, per creare punti di ancoraggio sicuri su strutture, macchinari, attrezzature o qualsiasi oggetto che richieda il sollevamento o il sostegno per mezzo di una corda, un cavo o una catena. La filettatura interna di questi golfari consente collegamenti rapidi e sicuri.</p><p>INDEX A PERFECT FIXING dispone di una <strong>grande variet&agrave; di diametri e misure</strong> di golfari.</p><p>Sono realizzati in acciaio al carbonio con rivestimento zincato o in acciaio inossidabile A4, materiali che garantiscono una lunga durata e un&rsquo;alta resistenza alla corrosione e alla ruggine. La qualit&agrave; dei materiali e l&apos;accurata progettazione rendono i golfari ideali per un <strong>sostegno affidabile e sicuro.</strong></p><p>Prima dell&apos;uso, verificare il corretto posizionamento dell&apos;anello e seguire attentamente le seguenti indicazioni:</p><ul><li>Non continuare a utilizzare anelli deformati n&eacute; riutilizzarli, se possibile, sostituirli.</li><li>Qualora il golfare debba essere installato in un foro passante, &egrave; necessario avvitare e serrare completamente un dado dall&apos;altro lato.</li><li>L&apos;utilizzo &egrave; valido come dispositivo di protezione individuale (DPI).</li></ul>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "EV-M",
             "description": "Golfare maschio D-580. Zincato",
             "image": "assets/images/EV-M.jpg",
@@ -101,6 +102,7 @@
             "url": "https://www.indexfix.com/producto/11500-EV-M-cancamo-macho-d-580-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "EV-M A4",
             "description": "Golfare maschio D-580. Inossidabile A4",
             "image": "assets/images/EV-M-A4.jpg",
@@ -109,6 +111,7 @@
             "url": "https://www.indexfix.com/producto/ev-m-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "EV-H",
             "description": "Golfare femmina D-582. Zincato",
             "image": "assets/images/EV-H.jpg",
@@ -117,6 +120,7 @@
             "url": "https://www.indexfix.com/producto/11501-EV-H-cancamo-hembra-d-582-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "EV-H A4",
             "description": "Golfare femmina D-582. Inossidabile A4",
             "image": "assets/images/EV-H-A4.jpg",
@@ -143,6 +147,7 @@
         "description": "<p>Il grillo &egrave; un accessorio da utilizzare come elemento intermedio tra il golfare o il gancio e l&rsquo;imbracatura. &Egrave; formato da un occhiello a vite e da un perno da utilizzare per sostenere catene, immobilizzare oggetti o spostarli in modo pi&ugrave; semplice e rapido.</p><p>INDEX A PERFECT FIXING dispone di una <strong>grande variet&agrave; di diametri e misure</strong> di grilli.<p>Grillo a lira per l&rsquo;ancoraggio di cavi, catene e corde. Grillo a lira del tipo 82016 adeguato al sollevamento di carichi, detto anche grillo ad arco. I grilli a lira sono progettati per poter sostenere fino a due carichi sulla parte arcuata, mai dalla parte del perno. Per un utilizzo corretto, il bullone dev&rsquo;essere sempre sostenersi sul passante dritto, mentre il cavo deve tirare sull&apos;arco del grillo.</p><p>Sono realizzati in acciaio al carbonio con rivestimento zincato o in acciaio inossidabile A4, materiali che garantiscono una lunga durata e un&rsquo;alta resistenza alla corrosione e alla ruggine. La qualit&agrave; dei materiali e l&apos;accurata progettazione li rendono ideali per un <strong>sostegno affidabile e sicuro.</strong></p>",
         "secondary-cards": [
           {
+            "filter": ["inox"],
             "title": "GI-A4",
             "description": "Grillo a lira per l&rsquo;ancoraggio di cavi, catene e corde. Inossidabile A4",
             "image": "assets/images/GI-A4.jpg",
@@ -151,6 +156,7 @@
             "url": "https://www.indexfix.com/producto/gi-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "GI-Z",
             "description": "Grillo a lira per l&rsquo;ancoraggio di cavi, catene e corde. Zincato",
             "image": "assets/images/GI-Z.jpg",
@@ -159,6 +165,7 @@
             "url": "https://www.indexfix.com/producto/gi-z-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "GR-Z",
             "description": "Grillo dritto. Zincato",
             "image": "assets/images/GI-Z.jpg",
@@ -167,6 +174,7 @@
             "url": "https://www.indexfix.com/producto/11499-GR-Z-grillete-recto-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "GR-A4",
             "description": "Grillo dritto. Inossidabile A4",
             "image": "assets/images/GR-A4.jpg",
@@ -198,6 +206,7 @@
         "description": "<p>Le radance si utilizzano per proteggere i cavi o le corde dall&apos;attrito e dall&apos;usura quando passano su una superficie o su uno spigolo. La curvatura della radancia riduce al minimo e distribuisce in modo omogeneo gli sforzi, evitando rotture.</p><p>Da INDEX disponiamo di due tipi di rivestimento per le radance: zincato e in acciaio inossidabile A4. Si raccomanda di utilizzare quest&rsquo;ultimo negli ambienti pi&ugrave; corrosivi nei quali &egrave; necessaria una protezione maggiore, come zone costiere o luoghi con elevata frequenza di condensazione.</p><p>Si utilizzano in diverse applicazioni, come nel settore nautico, dell&rsquo;edilizia, industriale o sportivo.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "GD-Z",
             "description": "Radancia DIN-6899/A. Zincato",
             "image": "assets/images/GD-Z.jpg",
@@ -206,6 +215,7 @@
             "url": "https://www.indexfix.com/producto/11498-GD-Z-guardacabo-din-6899-a-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "GD-A4",
             "description": "Radancia DIN-6899/A. Inossidabile A4",
             "image": "assets/images/GD-A4.jpg",
@@ -247,6 +257,7 @@
         "description": "<p>INDEX A Perfect Fixing dispone di un&rsquo;ampia gamma di misure e versioni di tiranti: Gancio-Anello, Anello-Anello, Gancio-Gancio e Asta-Asta. Ogni versione ha vantaggi e applicazioni specifiche in base al tipo di collegamento necessario.</p><p>I tiranti Gancio-Anello consentono un&rsquo;ampia variet&agrave; di installazioni grazie alla grande versatilit&agrave; di montaggio che offre la combinazione di gancio e anello.</p><p>I tiranti Anello-Anello permettono un montaggio ottimale in applicazioni per le quali &egrave; necessario un elevato livello di sicurezze e maggiore resistenza alla trazione, garantita dalla collocazione di anelli su entrambi i lati del tirante.</p><p>I tiranti Gancio-Gancio sono molto pratici in installazioni rapide e semplici per le quali &egrave; necessario tendere cavi con anelli e armare cavi, barre, catene, ecc.</p><p>I tiranti Asta-Asta sono progettati in modo specifico per i casi in cui si richiede la saldatura per collegare dei cavi. Per garantire il corretto funzionamento dell&rsquo;insieme la saldatura deve essere precisa.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "TS-GA",
             "description": "Tirante gancio/anello DIN-1480. Zincato",
             "image": "assets/images/TS-GA.jpg",
@@ -255,6 +266,7 @@
             "url": "https://www.indexfix.com/producto/11502-TS-GA-tensor-gancho-anilla-din-1480-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "TS-GA A4",
             "description": "Tirante gancio/anello DIN-1480. Inox A4",
             "image": "assets/images/TS-GA-A4.jpg",
@@ -263,6 +275,7 @@
             "url": "https://www.indexfix.com/producto/ts-ga-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "TS-AA",
             "description": "Tirante anello/anello DIN-1480. Zincato",
             "image": "assets/images/TS-AA.jpg",
@@ -271,6 +284,7 @@
             "url": "https://www.indexfix.com/producto/ts-aa-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "TS-AA A4",
             "description": "Tirante anello/anello DIN-1480. Inox A4",
             "image": "assets/images/TS-AA-A4.jpg",
@@ -279,6 +293,7 @@
             "url": "https://www.indexfix.com/producto/ts-aa-a4-inoxidable-a4"
           },
           {
+            "filter": ["inox"],
             "title": "TS-VS",
             "description": "Tirante asta-saldatura",
             "image": "assets/images/TS-VS.jpg",
@@ -287,16 +302,18 @@
             "url": "https://www.indexfix.com/producto/ts-vs-tensor-varilla-soldar"
           },
           {
+            "filter": ["zinc"],
             "title": "TS-GG",
-            "description": "Tirante gancio/anello DIN-1480. Zincato",
+            "description": "Tirante gancio/gancio DIN-1480. Zincato",
             "image": "assets/images/TS-GG.jpg",
             "image2x": "assets/images/TS-GG@2x.jpg",
             "image-alt": "TS-GG",
             "url": "https://www.indexfix.com/producto/ts-gg-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "TS-GG A4",
-            "description": "Tirante gancio/anello DIN-1480. Zincato",
+            "description": "Tirante gancio/gancio DIN-1480.  Inox A4",
             "image": "assets/images/TS-GG-A4.jpg",
             "image2x": "assets/images/TS-GG-A4@2x.jpg",
             "image-alt": "TS-GG A4",
@@ -341,6 +358,7 @@
         "description": "<p>I morsetti per cavi consentono di passare il cavo dall&rsquo;interno senza dover utilizzare strumenti specifici.</p><p>Nella parte posteriore dei morsetti per cavi piatti &egrave; presente dado che viene stretto per offrire un montaggio rapido, efficiente e sicuro. Inoltre, si ottiene un montaggio pi&ugrave; estetico evitando che le giunzioni siano visibili.</p><p>Si utilizza in diversi settori industriali e nell&apos;edilizia. Le versioni inossidabili A4 ne consentono l&rsquo;utilizzo in applicazioni nautiche o in condizioni meteorologiche avverse.</p><p>Per un uso corretto del morsetto per cavi, la distanza tra i fissaggi deve essere tra 1,5 e 3 volte la sua larghezza.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "SJ-Z",
             "description": "Morsetto per cavi DIN 741. Zincato",
             "image": "assets/images/SJ-Z.jpg",
@@ -349,6 +367,7 @@
             "url": "https://www.indexfix.com/producto/11503-SJ-Z-sujetacable-din-741-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "SJ-A4",
             "description": "Morsetto per cavi DIN 741. Inossidabile A4",
             "image": "assets/images/SJ-A4.jpg",
@@ -357,6 +376,7 @@
             "url": "https://www.indexfix.com/producto/sj-a4-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-O",
             "description": "Morsetto per cavi ovale DIN 741. Zincato",
             "image": "assets/images/SJ-O.jpg",
@@ -365,6 +385,7 @@
             "url": "https://www.indexfix.com/producto/sj-o-sujetacable-oval-cincado"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-PS",
             "description": "Morsetto per cavi piatto. Singolo. Zincato",
             "image": "assets/images/SJ-PS.jpg",
@@ -373,6 +394,7 @@
             "url": "https://www.indexfix.com/producto/sj-ps-simple-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "SJ-PS A4",
             "description": "Morsetto per cavi piatto. Singolo. Inossidabile A4",
             "image": "assets/images/SJ-PS A4.jpg",
@@ -381,6 +403,7 @@
             "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
           },
           {
+            "filter": ["zinc"],
             "title": "SJ-PD",
             "description": "Morsetto per cavi piatto. Doppio. Zincato",
             "image": "assets/images/SJ-PD.jpg",
@@ -389,8 +412,9 @@
             "url": "https://www.indexfix.com/producto/sj-pd-doble-cincado"
           },
           {
+            "filter": ["inox"],
             "title": "SJ-PD A4",
-            "description": "Tirante gancio/anello DIN-1480. Zincato",
+            "description": "Tirante gancio/anello DIN-1480. Inossidabile A4",
             "image": "assets/images/SJ-PD-A4.jpg",
             "image2x": "assets/images/SJ-PD-A4@2x.jpg",
             "image-alt": "SJ-PD A4",
@@ -435,6 +459,7 @@
         "description": "<p>Moschettone da pompiere con sicura del tipo 5299. Indicato per collegare e assicurare oggetti in modo rapido e sicuro con un meccanismo di apertura e chiusura semplice. Dispone di una sicura filettata che impedisce l&rsquo;apertura accidentale del meccanismo. La superficie della sicura &egrave; godronata per rendere pi&ugrave; semplice la manipolazione con le dita.</p><p>&Egrave; realizzato in acciaio al carbonio, con rivestimento zincato che conferisce una protezione maggiore contro corrosione e ruggine.</p><p>Grazie al design versatile e robusto &egrave; un&rsquo;opzione di ancoraggio sicura.</p><ul><li><strong>Sicura anti-apertura</strong>. Il moschettone dispone di una sicura filettata che impedisce l&rsquo;apertura accidentale del meccanismo. La superficie della sicura &egrave; godronata per rendere pi&ugrave; semplice la manipolazione con le dita.</li><li><strong>Meccanismo di apertura e chiusura semplice</strong>. Indicato per collegare e assicurare oggetti in modo rapido e sicuro con un meccanismo di apertura e chiusura semplice.</li><li><strong>Acciaio zincato</strong>. Realizzato in acciaio al carbonio, con rivestimento zincato che conferisce una protezione maggiore contro corrosione e ruggine.</li><li><strong>Design versatile</strong. Fissaggio con un&rsquo;ampia gamma di misure, da M4(&Oslash;6) mm a M12(&Oslash;20) mm. Inoltre, &egrave; disponibile un modello con filettatura di sicurezza.</li><li><strong>Sicurezza</strong>. Grazie al design versatile e robusto &egrave; un&rsquo;opzione di ancoraggio sicura.</li></ul><p>INDEX A PERFECT FIXING dispone di un&rsquo;ampia gamma di misure di questo dispositivo di fissaggio, da M4(&Oslash;6) mm a M15(&Oslash;26) mm. Inoltre, &egrave; disponibile un modello con filettatura di sicurezza.</p>",
         "secondary-cards": [
           {
+            "filter": ["inox"],
             "title": "MQ-B",
             "description": "Moschettone da pompiere",
             "image": "assets/images/MQ-B.jpg",
@@ -443,6 +468,7 @@
             "url": "https://www.indexfix.com/producto/mq-b-mosqueton-bombero"
           },
           {
+            "filter": ["inox"],
             "title": "MQ-BS",
             "description": "Moschettone da pompiere. Con sicura",
             "image": "assets/images/MQ-BS.jpg",
@@ -464,6 +490,7 @@
         "description": "<p>Esse zincata per eseguire collegamenti rapidi di cavi, corde e catene. Il design a forma di &ldquo;S&rdquo; consente di unire rapidamente due sistemi di trazione.</p><p>&Egrave; realizzata in acciaio al carbonio con rivestimento zincato, un materiale che garantisce una lunga durata e un&rsquo;alta resistenza alla corrosione e alla ruggine. La qualit&agrave; dei materiali e l&apos;accurata progettazione la rendono ideale per un <strong>sostegno affidabile e sicuro.</strong></p><p>INDEX A PERFECT FIXING dispone di un&rsquo;ampia variet&agrave; di misure di esse zincate, da M3 a M8.</p>",
         "secondary-cards": [
           {
+            "filter": ["zinc"],
             "title": "GS-Z",
             "description": "Esse zincata",
             "image": "assets/images/GS-Z.jpg",

@@ -15,7 +15,7 @@
     "p": "Das Sortiment besteht aus Kabelbindern, Karabinern, Spannschl&ouml;ssern, &Ouml;senschrauben, Sch&auml;keln und Seilkauschen, die zur Befestigung, Sicherung und zum Schutz von Kabeln sowie f&uuml;r eine effiziente Montage im Freien verwendet werden. Das gesamte Sortiment ist sowohl in verzinkter als auch in rostfreier Ausf&uuml;hrung erh&auml;ltlich."
   },
   "header": {
-    "url-home": "https://www.indexfix.com",
+    "url-home": "https://www.indexfix.com/de",
     "menu": "Men&uuml;"
   },
   "features-section": {
@@ -399,8 +399,8 @@
             "filter": ["inox"],
             "title": "SJ-PS A4",
             "description": "Kabelbinder, flach. Einfach. Rostfrei A4",
-            "image": "assets/images/SJ-PS A4.jpg",
-            "image2x": "assets/images/SJ-PS A4@2x.jpg",
+            "image": "assets/images/SJ-PS-A4.jpg",
+            "image2x": "assets/images/SJ-PS-A4@2x.jpg",
             "image-alt": "SJ-PS A4",
             "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
           },
@@ -533,7 +533,7 @@
     "phone-legend": "Zul&auml;ssiges Format 613445599 oder +34613445599",
     "message": "Nachricht/Anfrage",
     "personal-data": "Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.",
-    "legal-data": "Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
+    "legal-data": "Ich habe die <a href='https://www.indexfix.com/rechtliche' target='_blank' class='index-link'>Rechtshinweise</a> und die <a href='https://www.indexfix.com/datenschutz' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
     "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.",
     "description-2": "Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.",
     "description-3": "Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind. Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.",

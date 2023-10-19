@@ -15,7 +15,7 @@
     "p": "A gama &eacute; composta por bra&ccedil;adeiras, mosquet&otilde;es, esticadores, olhais, manilhas e guarda-cabos para prender, fixar, proteger o cabo e montar em espa&ccedil;os exteriores. Toda a gama est&aacute; dispon&iacute;vel com revestimento de zinco ou a&ccedil;o inoxid&aacute;vel."
   },
   "header": {
-    "url-home": "https://www.indexfix.com",
+    "url-home": "https://www.indexfix.com/pt",
     "menu": "menu"
   },
   "features-section": {
@@ -399,8 +399,8 @@
             "filter": ["inox"],
             "title": "SJ-PS A4",
             "description": "Bra&ccedil;adeira plana. Simples. Inoxid&aacute;vel A4",
-            "image": "assets/images/SJ-PS A4.jpg",
-            "image2x": "assets/images/SJ-PS A4@2x.jpg",
+            "image": "assets/images/SJ-PS-A4.jpg",
+            "image2x": "assets/images/SJ-PS-A4@2x.jpg",
             "image-alt": "SJ-PS A4",
             "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
           },
@@ -533,7 +533,7 @@
     "phone-legend": "Formato aceite 613445599 ou +34613445599",
     "message": "Mensagem/Consulta",
     "personal-data": "Aceito a utiliza&ccedil;&atilde;o dos meus dados pessoais pelo pessoal t&eacute;cnico da T&eacute;cnicas Expansivas SL (N.I.P.C. B-26220491) para que me contacte exclusivamente para a minha forma&ccedil;&atilde;o e assessoria t&eacute;cnica sobre os seus produtos.",
-    "legal-data": "Li e aceito o <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Aviso Legal</a> e a <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Pol&iacute;tica de Privacidade</a>.",
+    "legal-data": "Li e aceito o <a href='https://www.indexfix.com/aviso-pt' target='_blank' class='index-link'>Aviso Legal</a> e a <a href='https://www.indexfix.com/privacidade' target='_blank' class='index-link'>Política de Privacidade</a>.",
     "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informa que os dados de car&aacute;ter pessoal fornecidos de forma volunt&aacute;ria, cuja finalidade, transfer&ecirc;ncias previstas e demais circunst&acirc;ncias, s&atilde;o comunicadas no momento da recolha dos dados pessoais, ainda que, dependendo do caso espec&iacute;fico, a sua finalidade possa ser alguma das seguintes: atendimento do seu pedido, reclama&ccedil;&atilde;o ou d&uacute;vida apresentada, manuten&ccedil;&atilde;o da rela&ccedil;&atilde;o estabelecida, gest&atilde;o integral e comercial de clientes, contabilidade e fatura&ccedil;&atilde;o ou envio de comunica&ccedil;&otilde;es, inclusive por meio eletr&oacute;nico, de not&iacute;cias e atividades relacionadas com T&Eacute;CNICAS EXPANSIVAS S.L.",
     "description-2": "Os dados inclu&iacute;dos nos nossos ficheiros s&atilde;o absolutamente confidenciais e ser&atilde;o tratados com a m&aacute;xima confidencialidade e cumprindo todos os requisitos exigidos pelo Regulamento Geral de Prote&ccedil;&atilde;o de Dados (RGPD) de 27 de abril de 2016. Os dados ficar&atilde;o registados nos nossos ficheiros pelo tempo necess&aacute;rio que durar a motiva&ccedil;&atilde;o para a qual foram recolhidos. O per&iacute;odo durante o qual os dados pessoais ser&atilde;o conservados ser&aacute; o estabelecido pela legisla&ccedil;&atilde;o em vigor e sempre durante o tempo necess&aacute;rio para a presta&ccedil;&atilde;o do servi&ccedil;o para o qual foram comunicados.",
     "description-3": "Recomenda-se n&atilde;o enviar dados pessoais de alto n&iacute;vel, de acordo com a legisla&ccedil;&atilde;o de prote&ccedil;&atilde;o de dados, como os relativos &agrave; sa&uacute;de, pois os mesmos n&atilde;o s&atilde;o transferidos criptografados ou encriptados. De modo que, se os enviar, o envio ser&aacute; da sua exclusiva responsabilidade.",

@@ -25,7 +25,6 @@
     "p1": "Los accesorios para cable y cadena de INDEX (fabricados en acero o en acero inoxidable) están diseñados para la sujeción de grandes cargas con garantías y soportan condiciones meteorológicas adversas, por lo que son perfectos para uso en exteriores.",
     "p2": "Se emplean, principalmente, para la sujeción, fijación y protección de cables de acero, cables vistos, cuerdas y cadenas. Dentro de esta categoría, encontrarás una amplia selección de accesorios con diferentes funciones como sujetacables, para las conexiones entre cables; cáncamos, perfectos para la elevación de objetos mediante tensión; grilletes, cuya función es la de sujetar cadenas e inmovilizar una carga o guardacabos, ideales para protegen los cables con eficacia."
   },
-
   "range-section": {
     "title": "Gama",
     "more-info": "Más información",
@@ -400,8 +399,8 @@
             "filter": ["inox"],
             "title": "SJ-PS A4",
             "description": "Sujetacable plano. Simple. Inoxidable A4",
-            "image": "assets/images/SJ-PS A4.jpg",
-            "image2x": "assets/images/SJ-PS A4@2x.jpg",
+            "image": "assets/images/SJ-PS-A4.jpg",
+            "image2x": "assets/images/SJ-PS-A4@2x.jpg",
             "image-alt": "SJ-PS A4",
             "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
           },
@@ -522,7 +521,6 @@
       }
     ]
   },
-
   "contact-section": {
     "title": "Solicita más información",
     "error": "Error",

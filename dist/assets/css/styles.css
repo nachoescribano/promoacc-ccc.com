@@ -412,13 +412,13 @@ h2 {
 }
 
 .index-card__title--xl {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1.16;
   text-transform: uppercase;
   margin-bottom: 1.1875rem;
 }
 .index-card__title--xxl {
-  font-size: 2.1875rem;
+  font-size: 1.875rem;
   line-height: 1.2285714286;
   text-transform: uppercase;
   margin-bottom: 1.6875rem;

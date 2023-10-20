@@ -18,7 +18,7 @@
                 index-card--interactive--active
               {{/ifFirstFirst}}
               "
-              data-show-id="{{title}}"
+              data-show-id="{{removeSpacesAndHtmlEntities title}}"
             >
               <div class="index-card__container">
                 <div class="index-card__body">
@@ -53,7 +53,7 @@
                 {{else}}
                 index-card--hidden
               {{/ifFirstFirst}}"
-              data-id="{{title}}"
+              data-id="{{removeSpacesAndHtmlEntities title}}"
             >
               <div class="index-card__container">
                 <div class="index-card__body">

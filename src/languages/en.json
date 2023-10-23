@@ -101,7 +101,7 @@
             "image": "assets/images/EV-M.jpg",
             "image2x": "assets/images/EV-M@2x.jpg",
             "image-alt": "EV-M",
-            "url": "https://www.indexfix.com/producto/11500-EV-M-cancamo-macho-d-580-cincado"
+            "url": "https://www.indexfix.com/product/11500-EV-M-ring-nut-d-580-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -110,7 +110,7 @@
             "image": "assets/images/EV-M-A4.jpg",
             "image2x": "assets/images/EV-M-A4@2x.jpg",
             "image-alt": "EV-M A4",
-            "url": "https://www.indexfix.com/producto/ev-m-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/ev-m-a4-a4-stainless-steel"
           },
           {
             "filter": ["zinc"],
@@ -119,7 +119,7 @@
             "image": "assets/images/EV-H.jpg",
             "image2x": "assets/images/EV-H@2x.jpg",
             "image-alt": "EV-H",
-            "url": "https://www.indexfix.com/producto/11501-EV-H-cancamo-hembra-d-582-cincado"
+            "url": "https://www.indexfix.com/product/11501-EV-H-ring-nut-d-582-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -128,7 +128,7 @@
             "image": "assets/images/EV-H-A4.jpg",
             "image2x": "assets/images/EV-H-A4@2x.jpg",
             "image-alt": "EV-H A4",
-            "url": "https://www.indexfix.com/producto/ev-h-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/ev-h-a4-a4-stainless-steel"
           }
         ],
         "applications": [
@@ -155,7 +155,7 @@
             "image": "assets/images/GI-A4.jpg",
             "image2x": "assets/images/GI-A4@2x.jpg",
             "image-alt": "GI-A4",
-            "url": "https://www.indexfix.com/producto/gi-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/gi-a4-a4-stainless-steel"
           },
           {
             "filter": ["zinc"],
@@ -164,7 +164,7 @@
             "image": "assets/images/GI-Z.jpg",
             "image2x": "assets/images/GI-Z@2x.jpg",
             "image-alt": "GI-Z",
-            "url": "https://www.indexfix.com/producto/gi-z-cincado"
+            "url": "https://www.indexfix.com/product/gi-z-zinc-plated"
           },
           {
             "filter": ["zinc"],
@@ -182,7 +182,7 @@
             "image": "assets/images/GR-A4.jpg",
             "image2x": "assets/images/GR-A4@2x.jpg",
             "image-alt": "GR-A4",
-            "url": "https://www.indexfix.com/producto/gr-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/gr-a4-a4-stainless-steel"
           }
         ],
         "applications": [
@@ -214,7 +214,7 @@
             "image": "assets/images/GD-Z.jpg",
             "image2x": "assets/images/GD-Z@2x.jpg",
             "image-alt": "GD-Z",
-            "url": "https://www.indexfix.com/producto/11498-GD-Z-guardacabo-din-6899-a-cincado"
+            "url": "https://www.indexfix.com/product/11498-GD-Z-thimble-din-6899-a-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -222,8 +222,8 @@
             "description": "Thimble DIN-6899/A Stainless A4",
             "image": "assets/images/GD-A4.jpg",
             "image2x": "assets/images/GD-A4@2x.jpg",
-            "image-alt": "GI-A4",
-            "url": "https://www.indexfix.com/producto/gd-a4-inoxidable-a4"
+            "image-alt": "GD-A4",
+            "url": "https://www.indexfix.com/product/gd-a4-a4-stainless-steel"
           }
         ],
         "applications": [
@@ -265,7 +265,7 @@
             "image": "assets/images/TS-GA.jpg",
             "image2x": "assets/images/TS-GA@2x.jpg",
             "image-alt": "TS-GA",
-            "url": "https://www.indexfix.com/producto/11502-TS-GA-tensor-gancho-anilla-din-1480-cincado"
+            "url": "https://www.indexfix.com/product/11502-TS-GA-turnbuckle-hook-ring-din-1480-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -274,7 +274,7 @@
             "image": "assets/images/TS-GA-A4.jpg",
             "image2x": "assets/images/TS-GA-A4@2x.jpg",
             "image-alt": "TS-GA A4",
-            "url": "https://www.indexfix.com/producto/ts-ga-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/ts-ga-a4-a4-stainless-steel"
           },
           {
             "filter": ["zinc"],
@@ -283,7 +283,7 @@
             "image": "assets/images/TS-AA.jpg",
             "image2x": "assets/images/TS-AA@2x.jpg",
             "image-alt": "TS-AA",
-            "url": "https://www.indexfix.com/producto/ts-aa-cincado"
+            "url": "https://www.indexfix.com/product/ts-aa-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -292,7 +292,7 @@
             "image": "assets/images/TS-AA-A4.jpg",
             "image2x": "assets/images/TS-AA-A4@2x.jpg",
             "image-alt": "TS-AA A4",
-            "url": "https://www.indexfix.com/producto/ts-aa-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/ts-aa-a4-a4-stainless-steel"
           },
           {
             "filter": ["inox"],
@@ -301,7 +301,7 @@
             "image": "assets/images/TS-VS.jpg",
             "image2x": "assets/images/TS-VS@2x.jpg",
             "image-alt": "TS-VS",
-            "url": "https://www.indexfix.com/producto/ts-vs-tensor-varilla-soldar"
+            "url": "https://www.indexfix.com/product/ts-vs-welding-rod-turnbuckle"
           },
           {
             "filter": ["zinc"],
@@ -310,7 +310,7 @@
             "image": "assets/images/TS-GG.jpg",
             "image2x": "assets/images/TS-GG@2x.jpg",
             "image-alt": "TS-GG",
-            "url": "https://www.indexfix.com/producto/ts-gg-cincado"
+            "url": "https://www.indexfix.com/product/ts-gg-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -319,7 +319,7 @@
             "image": "assets/images/TS-GG-A4.jpg",
             "image2x": "assets/images/TS-GG-A4@2x.jpg",
             "image-alt": "TS-GG A4",
-            "url": "https://www.indexfix.com/producto/ts-gg-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/ts-gg-a4-a4-stainless-steel"
           }
         ],
         "applications": [
@@ -366,7 +366,7 @@
             "image": "assets/images/SJ-Z.jpg",
             "image2x": "assets/images/SJ-Z@2x.jpg",
             "image-alt": "SJ-Z",
-            "url": "https://www.indexfix.com/producto/11503-SJ-Z-sujetacable-din-741-cincado"
+            "url": "https://www.indexfix.com/product/11503-SJ-Z-wire-rope-clip-din-741-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -375,7 +375,7 @@
             "image": "assets/images/SJ-A4.jpg",
             "image2x": "assets/images/SJ-A4@2x.jpg",
             "image-alt": "SJ-A4",
-            "url": "https://www.indexfix.com/producto/sj-a4-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/sj-a4-a4-stainless-steel"
           },
           {
             "filter": ["zinc"],
@@ -384,7 +384,7 @@
             "image": "assets/images/SJ-O.jpg",
             "image2x": "assets/images/SJ-O@2x.jpg",
             "image-alt": "SJ-O",
-            "url": "https://www.indexfix.com/producto/sj-o-sujetacable-oval-cincado"
+            "url": "https://www.indexfix.com/product/sj-o-oval-cable-clip-zinc-plated"
           },
           {
             "filter": ["zinc"],
@@ -393,7 +393,7 @@
             "image": "assets/images/SJ-PS.jpg",
             "image2x": "assets/images/SJ-PS@2x.jpg",
             "image-alt": "SJ-PS",
-            "url": "https://www.indexfix.com/producto/sj-ps-simple-cincado"
+            "url": "https://www.indexfix.com/product/sj-ps-single-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -402,7 +402,7 @@
             "image": "assets/images/SJ-PS-A4.jpg",
             "image2x": "assets/images/SJ-PS-A4@2x.jpg",
             "image-alt": "SJ-PS A4",
-            "url": "https://www.indexfix.com/producto/sj-ps-a4-simple-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/sj-ps-a4-single-a4-stainless-steel"
           },
           {
             "filter": ["zinc"],
@@ -411,7 +411,7 @@
             "image": "assets/images/SJ-PD.jpg",
             "image2x": "assets/images/SJ-PD@2x.jpg",
             "image-alt": "SJ-PD",
-            "url": "https://www.indexfix.com/producto/sj-pd-doble-cincado"
+            "url": "https://www.indexfix.com/product/sj-pd-double-zinc-plated"
           },
           {
             "filter": ["inox"],
@@ -420,7 +420,7 @@
             "image": "assets/images/SJ-PD-A4.jpg",
             "image2x": "assets/images/SJ-PD-A4@2x.jpg",
             "image-alt": "SJ-PD A4",
-            "url": "https://www.indexfix.com/producto/sj-pd-a4-doble-inoxidable-a4"
+            "url": "https://www.indexfix.com/product/sj-pd-a4-double-a4-stainless-steel"
           }
         ],
         "applications": [
@@ -467,7 +467,7 @@
             "image": "assets/images/MQ-B.jpg",
             "image2x": "assets/images/MQ-B@2x.jpg",
             "image-alt": "MQ-B",
-            "url": "https://www.indexfix.com/producto/mq-b-mosqueton-bombero"
+            "url": "https://www.indexfix.com/product/mq-b-firefighter-carabiner"
           },
           {
             "filter": ["inox"],
@@ -476,7 +476,7 @@
             "image": "assets/images/MQ-BS.jpg",
             "image2x": "assets/images/MQ-BS@2x.jpg",
             "image-alt": "MQ-BS",
-            "url": "https://www.indexfix.com/producto/mq-bs-con-seguro"
+            "url": "https://www.indexfix.com/product/mq-bs-with-lock"
           }
         ],
         "applications": [
@@ -498,7 +498,7 @@
             "image": "assets/images/GS-Z.jpg",
             "image2x": "assets/images/GS-Z@2x.jpg",
             "image-alt": "GS-Z",
-            "url": "https://www.indexfix.com/producto/gs-z-ese-cincada"
+            "url": "https://www.indexfix.com/product/gs-z-zinc-plated-%22s%22"
           }
         ],
         "applications": [
